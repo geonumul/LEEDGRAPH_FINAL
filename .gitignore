@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 환경변수 (API 키 포함 - 절대 커밋 금지)
+.env
+*.env
+
+# 학습된 모델 바이너리
+outputs/models/
+*.pkl
+*.joblib
+
+# 결과물 (선택적 제외)
+# outputs/figures/
+# outputs/reports/
+
+# Local editor/agent caches
+.claude/
+
+# 가상환경
+.venv_test/
+
+# 옛 산출물 (backup 폴더에만 보존)
+results/figures/legacy/
+results/tables/legacy/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/

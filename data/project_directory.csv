@@ -1,0 +1,457 @@
+ID,Isconfidential,ProjectName,Street,City,State,Zipcode,Country,LEEDSystemVersion,PointsAchieved,CertLevel,CertDate,IsCertified,GrossFloorArea,ProjectTypes,RegistrationDate,UnitOfMeasurement
+1000072465,No,NAMSAN SQUARE,"173, Toegye-ro",Seoul,,004-554,South Korea,v2009,61,Gold,12/15/2016,Yes,725179,,5/13/2016,sq ft
+1000074483,No,Lottemall Songdo A1 Block Officetel,"8-37 Songdo-dong, Yeonsu-gu",Incheon,,21998,South Korea,v2009,50,Silver,9/16/2019,Yes,1068726,,7/25/2016,sq ft
+1000073502,No,CHANEL Korea Office Relocation,"41, Sejong-daero 9-gil, Jung-gu",Seoul,,04513,South Korea,v4,60,Gold,7/11/2017,Yes,3878,,6/27/2016,sq m
+1000067906,No,Songdo convention Ctr phase II,"6-1, Songdo-dong, Yeonsu-gu",Incheon,,21998,South Korea,v2009,45,Certified,8/22/2018,Yes,46745,,3/3/2016,sq m
+1000140920,No,BYULDABANG,"100, Toegye-ro, Jung-gu",Seoul,,04631,South Korea,v4,54,Silver,6/29/2021,Yes,363,,2/8/2021,sq m
+1000070017,No,Headquarters of Daegu Bank,"2310, Dalgubeoldae-ro, Suseong-gu,",Daegu Metropolitan City,,42123,South Korea,v2009,69,Gold,8/22/2018,Yes,27081,,4/4/2016,sq m
+1000066194,No,"SENIOR LIVING QUARTERS, BUILDING NO. 204",USAG-Humphreys,USAG-Humphreys,,17977,South Korea,v2009,53,Silver,10/10/2018,Yes,37968,,1/18/2016,sq ft
+1000086556,No,CENTROPOLIS,Ujeongguk-ro,Jongno-gu,,03161,South Korea,v2009,64,Gold,9/3/2018,Yes,113145,,10/19/2016,sq m
+1000070809,No,Prada Seoul Shinsegae Gangnam Uomo,"176 Sinbanpo-ro, Seocho-Gu",Seoul,,137-040,South Korea,v2009,62,Gold,10/13/2016,Yes,1426,,4/6/2016,sq ft
+1000085834,No,Miu Miu Busan Lotte Duty Free,"772 Gaya-daero, Busanjin-gu, Busan",Busan,,47285,South Korea,v2009,60,Gold,12/20/2019,Yes,1120,,10/18/2016,sq ft
+1000085842,No,Prada Busan Lotte Duty Free,"772 Gaya-daero, Busanjin-gu, Busan",Busan,,47285,South Korea,v2009,60,Gold,7/12/2020,Yes,170,,10/18/2016,sq m
+1000085389,No,Seoul Finance Center Recertification2018,11F 84 Taepyungro1-ga Chung-Gu,Seoul,,04520,South Korea,v2009,84,Platinum,6/26/2018,Yes,1164677,,10/16/2016,sq ft
+1000075356,No,Gangnam Finance Center,"40th Floor, Gangnam Finance Center",Gangnam Gu,,06236,South Korea,v2009,82,Platinum,6/14/2018,Yes,1707788,,8/18/2016,sq ft
+1000073588,No,ARMY FY17 81428 Family Housing,AFH Tower 3,Camp Walker,,45808,South Korea,v2009,53,Silver,1/9/2022,Yes,260429,,6/29/2016,sq ft
+1000155685,No,Centropolis,Centropolis Building,Jongro-gu,,03161,South Korea,v4,92,Platinum,12/1/2022,Yes,1184329,,2/9/2022,sq ft
+1000018115,No,NHN Entertainment PLAY MUSEUM,,Sungnam,,,South Korea,v2009,82,Platinum,9/3/2013,Yes,676944,,8/24/2011,sq ft
+1000023416,No,Parnas Tower,521 Teheran-ro,Seoul,,06164,South Korea,v2009,62,Gold,5/24/2017,Yes,993642,,3/27/2012,sq ft
+1000002831,No,State Tower Gwanghwamun,188 Beonji,Seoul,,110-130,South Korea,v2009,64,Gold,8/6/2013,Yes,441227,,12/4/2009,sq ft
+1000032504,No,Hankook Tire Central RnD Center,"1020 (I-20), Daedeok R+D Special Zone",Daejeon,,305-328,South Korea,v2009,51,Gold,10/6/2016,Yes,656213,,5/7/2013,sq ft
+1000016705,No,Citi Korea LEED CI,Youngdeungpo Youngdeungpo-dong 4 Ga,Seoul,,150-034,South Korea,v2009,53,Silver,11/18/2011,Yes,4031,,6/27/2011,sq ft
+1000034671,No,COEX Mall Remodeling,"COEX, 159 Samseong-dong",Seoul,,135-731,South Korea,v2009,56,Silver,6/1/2015,Yes,1093599,,8/8/2013,sq ft
+1000032361,No,New KEPCO Headquarter Office,"San 43-1, Dong-ak-ri",Naju,,520-820,South Korea,v2009,83,Platinum,7/12/2015,Yes,984319,,5/2/2013,sq ft
+10097176,No,Songdo Convention Ctr,Block 36,New Songdo City,,402-704,South Korea,v2.2,29,Certified,4/1/2010,Yes,292586,,6/15/2007,sq ft
+10098245,No,Block D15,Block D15,New Songdo City,,400-340,South Korea,v2.2,32,Certified,9/10/2012,Yes,1304856,,6/19/2007,sq ft
+1000011652,No,Samsung C/T Corporation HQ Building,,Seoul,,,South Korea,v2009,64,Gold,1/3/2012,Yes,873139,,12/17/2010,sq ft
+1000015623,No,Amorepacific Headquarters,"100, Hangangdae-ro",Seoul,,04386,South Korea,v2009,71,Gold,5/17/2018,Yes,1547119,,5/9/2011,sq ft
+10094534,No,"International Finance Centre, Phase 1",23 & 23-1 Yeouido-dong,Seoul,,150-876,South Korea,v2.0,34,Gold,11/11/2013,Yes,4729067,,6/8/2007,sq ft
+10097236,No,Jack Nicklaus Golf Clubhouse,None,New Songdo City,,402-704,South Korea,v2.2,28,Certified,9/8/2015,Yes,190697,,6/15/2007,sq ft
+10901114,No,Block D24,"23-5 Songdo-Dong, Yeonsu-Gu",Incheon,,406-743,South Korea,v2.2,,Certified,1/10/2016,Yes,1310313,,12/10/2013,sq ft
+10347320,No,Sk Chemicals Eco Lab,,Seongnam-Si Boon-Dang Gu,,,South Korea,v2.2,55,Platinum,8/9/2011,Yes,513477,,12/7/2008,sq ft
+1000004907,No,Gangnam Finance Centre Seoul,,Seoul,,,South Korea,v2009,67,Gold,4/6/2011,Yes,2274894,,2/22/2010,sq ft
+1000022843,No,ERM Korea,"9/F, Central Place, 419 Junglim-Dong",Seoul,,100-360,South Korea,v2009,57,Silver,8/27/2012,Yes,3173,,3/5/2012,sq ft
+10097118,No,Sheraton Incheon Hotel,Block 36,New Songdo City,,402-704,South Korea,v2.2,31,Certified,3/3/2011,Yes,400202,,6/15/2007,sq ft
+10098298,No,Block D23,Block D23,New Songdo City,,400-340,South Korea,v2.2,32,Certified,3/8/2012,Yes,1444185,,6/19/2007,sq ft
+10098300,No,Chadwick International,NSC International School,New Songdo City,,400-340,South Korea,v2.2,28,Certified,11/10/2011,Yes,550000,,6/19/2007,sq ft
+1000021110,No,ARMY FY13 MCA76196 TEMF,Parcel 2B,USAG HUMPHREYS,,17983,South Korea,v2009,54,Silver,1/21/2018,Yes,18194,,12/21/2011,sq ft
+1000007764,No,Tetra Tech International Korea Inc,,Seoul,,,South Korea,v2009,57,Silver,3/17/2011,Yes,1291,,7/23/2010,sq ft
+1000027175,No,JW Marriott Seoul Dongdaemun Square,"289-3, 289-1 Jongno 6-ga",Seoul,,110-126,South Korea,v2009,65,Gold,7/25/2013,Yes,242636,,9/12/2012,sq ft
+1000003440,No,Samsung Techwin Energy Equipment Plant,"Building 43, 69-2 Sincheon-Dong",Changwon,,641-370,South Korea,v2009,54,Silver,12/20/2010,Yes,69869,,12/24/2009,sq ft
+1000026676,No,GMK Design Center Extension,"199-28, Cheongcheon-dong, Bupyeong-gu",Incheon,,403-858,South Korea,v2009,63,Gold,4/9/2014,Yes,101493,,8/16/2012,sq ft
+1000026696,No,Seoul Finance Centre Recertification,11F 84 Taepyungro1-ga Chung-Gu,Seoul,,100-768,South Korea,v2009,85,Platinum,4/10/2013,Yes,1411539,,8/19/2012,sq ft
+1000028279,No,KDN Headquater,"Mt.39-2, Dongak-ri, Kumchun-myun",Naju-si,,520-822,South Korea,v2009,64,Gold,5/10/2015,Yes,374720,,11/2/2012,sq ft
+10323896,No,Songdo IBD Block D11/16,Block D11/16,(New Songdo City) Incheon,,406-130,South Korea,v2.2,31,Certified,7/15/2015,Yes,1756415,,10/24/2008,sq ft
+10842095,No,Starbucks Yoido IFC B3,"23 & 23-1, Yoido-Dong, Yongdongpo-Gu Yo",Seoul,,153-023,South Korea,v1.0 pilot,,Certified,4/26/2013,Yes,0,,5/7/2013,sq ft
+1000034616,No,BOEING AMRO in Yeongcheon,"1031~1114, Nokjeon-dong",Yeongcheon,,770-220,South Korea,v2009,47,Certified,5/15/2015,Yes,10939,,8/6/2013,sq ft
+1000034751,No,Hyundai Hotel Gyeongpodae,Gangmun-dong 274-1,Gangneung,,210-130,South Korea,v2009,45,Certified,4/12/2015,Yes,343392,,8/13/2013,sq ft
+1000021380,No,Kt Cheongjin Building,220-2 Cheongjin-dong,Seoul,,110-130,South Korea,v2009,61,Gold,6/8/2015,Yes,551631,,1/6/2012,sq ft
+1000006610,No,Woongjin Energy Daejeon Factory,"Daedeok Techno Valley, Yuseong-gu, Kwanpyong-dong",Daejeon,,305-509,South Korea,v2009,55,Silver,2/8/2011,Yes,396270,,5/25/2010,sq ft
+1000021108,No,ARMY FY13 MCA76196 COF,Parcel 2B,USAG HUMPHREYS,,17983,South Korea,v2009,50,Silver,1/21/2018,Yes,46850,,12/21/2011,sq ft
+1000021109,No,ARMY FY13 MCA76196 Battalion HQ,Parcel 2B,USAG HUMPHREYS,,17983,South Korea,v2009,50,Silver,1/21/2018,Yes,16360,,12/21/2011,sq ft
+1000022498,No,ECO Hub,,Sungnam,,,South Korea,v2009,86,Platinum,4/28/2015,Yes,512490,,2/17/2012,sq ft
+1000025840,No,IBK FINANCE TOWER,"161-1, Euljiro 2-ga, Jung-gu",Seoul,,100-845,South Korea,v2009,63,Gold,11/16/2016,Yes,405161,,7/9/2012,sq ft
+1000029851,No,The Second Headquarters of DAEGU BANK,"111, Oksan-ro, Buk-gu",Daegu Metropolitan City,,702-851,South Korea,v2009,72,Gold,4/27/2016,Yes,244212,,1/16/2013,sq ft
+1000010779,No,Susterra Partners/ Accolade Office,"63-1, Jangchung-dong 1-ga, Jung-gu, Seoul, Korea",Seoul,,100-391,South Korea,v2009,59,Silver,6/12/2012,Yes,3623,,11/9/2010,sq ft
+10097199,No,NEAT-Tower,Block 36,New Songdo City,,402-704,South Korea,v2.0,28,Silver,1/16/2015,Yes,1600000,,6/15/2007,sq ft
+10097302,No,Songdo Block D20/21,Block D20/21,New Songdo City,,400-340,South Korea,v2.2,32,Certified,6/8/2012,Yes,2850000,,6/15/2007,sq ft
+1000015531,No,COEX Convention and Exhibition Center,"Samsung-dong, Gangnam-gu, Seoul, South Korea",Seoul,,135-731,South Korea,v2009,52,Silver,12/22/2011,Yes,2604770,,5/4/2011,sq ft
+1000034370,No,Daishin Finance Center,"343 samil-daero, jung-gu,",Seoul,,04538,South Korea,v2009,60,Gold,1/24/2017,Yes,453840,,7/26/2013,sq ft
+10098253,No,Block D22,Block D22,New Songdo City,,400-340,South Korea,v2.2,32,Certified,1/31/2012,Yes,2200000,,6/19/2007,sq ft
+1000035511,No,Nike Gangnam,814-1 Yeoksam-Dong Gangnam-gu,Seoul,,135-826,South Korea,v2009,53,Silver,11/26/2014,Yes,20405,,9/13/2013,sq ft
+10877062,No,Starbucks Yoido IFC 1F,"23 & 23-1, Yoido-Dong, Yongdongpo-Gu IFC",Seoul,,153-023,South Korea,v1.0 pilot,,Certified,10/4/2013,Yes,1270,,10/31/2013,sq ft
+10355643,No,Samsung Global Engineering Center TowerC,"367-4, Sang il-Dong, Gang Dong-Ku",Seoul,,134-090,South Korea,v2.2,45,Gold,5/23/2012,Yes,227746,,12/23/2008,sq ft
+1000023357,No,SK Networks Daechi-dong New HQ,"948 Daechi-dong, Gangnam-gu",Seoul,,135-280,South Korea,v2009,63,Gold,4/16/2014,Yes,512775,,3/26/2012,sq ft
+1000038780,No,Facebook Seoul,23rd Floor 736-1 Yeoksam-dong,Seoul,,135-983,South Korea,v2009,62,Gold,7/16/2014,Yes,10411,,1/28/2014,sq ft
+10098238,No,Songdo Block D19,Block D19,New Songdo City,,400-340,South Korea,v2.2,28,Certified,5/31/2012,Yes,1500000,,6/19/2007,sq ft
+10098242,No,Blocks D13/14,Blocks D13/14,New Songdo City,,400-340,South Korea,v2.2,29,Certified,2/17/2012,Yes,2000000,,6/19/2007,sq ft
+1000041157,No,Google KR Renovation with Addtn on 23F,22F/23F Gangnam Finance Building,Seoul,,135-984,South Korea,v2009,52,Silver,8/24/2015,Yes,33972,,4/7/2014,sq ft
+10516879,No,F21/22/23 Residential,Songdo-dong,Incheon,,406-840,South Korea,v2.2,,Certified,10/13/2015,Yes,2735350,,6/18/2009,sq ft
+10365054,No,ING Tower,,Seoul,,135-080,South Korea,v2008,59,Gold,9/7/2009,Yes,718126,,1/13/2009,sq ft
+10101091,No,C8-2 Office Project,Block C8-2,New Songdo City,,402-704,South Korea,v2.0,34,Gold,4/6/2012,Yes,1326126,,6/25/2007,sq ft
+1000016993,No,Tangjung Samsung Trapalace,809 MyeongAm-ri,Asan Si,,121-763,South Korea,v2009,46,Certified,2/4/2014,Yes,596678,,7/11/2011,sq ft
+1000002830,No,State Tower Namsan,6-11 Hoehyeon-dong 2-ga,Seoul,,100-876,South Korea,v2009,67,Gold,11/15/2011,Yes,719026,,12/4/2009,sq ft
+10342241,No,Korea Samsung Green Tomorrow,,Gyeonggi-do,,,South Korea,v2.2,55,Platinum,9/29/2009,Yes,7761,,11/26/2008,sq ft
+1000011860,No,POSCO ENERGY Future Energy Campus,,Incheon,,,South Korea,v2009,85,Platinum,4/9/2012,Yes,93041,,1/3/2011,sq ft
+1000014239,No,BoAML Seoul Office 27th Floor LEED CI,"Seoul Finance Center, 27th Floor",Seoul,,100-768,South Korea,v2009,64,Gold,12/30/2011,Yes,19848,,4/5/2011,sq ft
+1000004894,No,Keimyung Univ Dongsan Medical Center,,Daegu,,,South Korea,v2009,45,Certified,11/12/2018,Yes,1920228,,2/21/2010,sq ft
+1000026591,No,Gangnam Finance Centre Recertification,"40th Floor, Gangnam Finance Center",Gangnam Gu,,135-984,South Korea,v2009,82,Platinum,3/25/2013,Yes,2274894,,8/13/2012,sq ft
+1000012155,No,Kukdong Building Seoul,"60-1 Chungmuro 3, Ga Jung-Gu",Seoul,,100-013,South Korea,v2009,66,Gold,10/28/2011,Yes,810010,,1/12/2011,sq ft
+1000060863,No,Majestar City Office Tower One,1501-1 Seocho-dong,Seoul,,06655,South Korea,v2009,81,Platinum,12/12/2017,Yes,350629,,8/17/2015,sq ft
+1000052181,No,Google Campus Seoul,Daechi Dong S Tower (Autoway Tower),Seoul,,135-847,South Korea,v2009,62,Gold,8/25/2015,Yes,20286,,11/13/2014,sq ft
+1000024157,No,GRAN SEOUL,"119-1 Cheong-jin Dong, Jongno-gu, Seoul, Korea",Seoul,,110-130,South Korea,v2009,62,Gold,1/17/2014,Yes,1370431,,4/25/2012,sq ft
+1000056585,No,Bureau Veritas Korea CPS,"126 Beolmal-ro, Dongan-gu, Anyang-si, Gyeonggi-do, Korea",Anyang,,431-060,South Korea,v2009,87,Platinum,3/2/2016,Yes,36271,,4/6/2015,sq ft
+1000057706,No,Concert Hall in Incheon Art Center,"80-9, Song-do dong, yeon-su gu",Incheon,,406-840,South Korea,v2009,51,Silver,8/17/2016,Yes,257408,,5/13/2015,sq ft
+1000042839,No,Golden Tower,"Golden Tower, 511 Samseong-ro, Gangnam-gu",Seoul,,135-745,South Korea,v2009,63,Gold,4/3/2015,Yes,312976,,5/29/2014,sq ft
+1000035522,No,NAVER Green Factory,178-1 Jeongja-dong Bundang-gu Seongnam-si Gyeonggi-do,Seongnam,,463-867,South Korea,v2009,101,Platinum,9/26/2014,Yes,779685,,9/16/2013,sq ft
+1000054161,No,Northgate Building,"55, Saemunan-ro 5-gil, Jongno-gu,",Seoul,,110-052,South Korea,v2009,68,Gold,3/11/2016,Yes,267281,,1/28/2015,sq ft
+1000055232,No,SAB Miller,244 Itaewon-ro,Yongsan-gu,,683-141,South Korea,v2009,70,Gold,3/28/2016,Yes,4299,,2/23/2015,sq ft
+1000035793,No,Green Smart Innovation Center,"17-6, Mabuk-ro 240beon-gil, Giheung-gu",Yongin-si,,446-716,South Korea,v2009,83,Platinum,5/12/2015,Yes,26589,,9/25/2013,sq ft
+1000051905,No,COEX NIKE,COEX Mall  G111,Seoul,,135-975,South Korea,v2009,53,Silver,5/15/2015,Yes,8491,,11/7/2014,sq ft
+1000052245,No,EWHA Womans University Magok Hospital,"260, Gonghang-daero, Gangseo-gu",Seoul,,07804,South Korea,v2009,43,Certified,1/29/2019,Yes,1338837,,11/16/2014,sq ft
+1000062636,No,The-K Tower,The K Tower,Seoul,,07327,South Korea,v2009,64,Gold,8/9/2018,Yes,70835,,10/11/2015,sq m
+1000066070,No,SK plasma L HOUSE Fractionation Center,"157 Goejeong-ri, Pungsan-eup, Andong-si",Andong,,36618,South Korea,v2009,62,Gold,1/9/2017,Yes,199901,,1/13/2016,sq ft
+1000065836,No,LG Science Park - LG CNS / LG Chem,D22,Seoul,,07795,South Korea,v2009,59,Silver,1/8/2018,Yes,428275,,1/5/2016,sq ft
+1000065844,No,LG Science Park - LG CNS,D25,Seoul,,07795,South Korea,v2009,59,Silver,1/8/2018,Yes,400669,,1/5/2016,sq ft
+1000041820,No,ARMY FY15 81230 Family Housing,Army Family Houinsg Tower 1,Camp Walker,,42505,South Korea,v2009,61,Gold,7/7/2019,Yes,233000,,5/1/2014,sq ft
+1000060087,No,KARI - Daycare Center,"10, Sinseong-dong, Yuseong-gu",Daejeon,,305-804,South Korea,v2009,55,Silver,3/3/2016,Yes,10747,,7/21/2015,sq ft
+1000060862,No,Majestar City Office Tower Two,1501-1 Seocho-dong,Seoul,,06655,South Korea,v2009,81,Platinum,12/12/2017,Yes,307985,,8/17/2015,sq ft
+1000065835,No,LG Science Park-LG Household&Healthcare,D22,Seoul,,07795,South Korea,v2009,58,Silver,1/8/2018,Yes,656997,,1/5/2016,sq ft
+1000065843,No,LG Science Park - LG Uplus,D25,Seoul,,07795,South Korea,v2009,55,Silver,1/8/2018,Yes,648215,,1/5/2016,sq ft
+1000042457,No,KOLON ONE&ONLY TOWER,Magok Industrial Complex,Seoul,,07793,South Korea,v4,61,Gold,10/19/2018,Yes,719428,,5/20/2014,sq ft
+1000151651,No,KORNER136,"354-1, Yanghwa-ro, Mapo-gu",Seoul,,04038,South Korea,v4,69,Gold,12/24/2024,Yes,9660,,11/11/2021,sq m
+1000055989,No,RC Gimje Petfood,74-8 Bugeo-ri,Gimje,,54326,South Korea,v2009,63,Gold,10/9/2018,Yes,250478,,3/16/2015,sq ft
+1000016811,No,SK Chemicals Vaccine Production Factory,"1093,1094,1095, 1096, 1097, 1098 Maegok-ri, Pungsan-eup",Andong,,760-805,South Korea,v2009,60,Gold,9/16/2013,Yes,277455,,6/29/2011,sq ft
+1000010100,No,WELCOME CENTER/WAREHOUSE,"U.S. NAVAL BASE, Chinhae-Gu",Changwon,,645-701,South Korea,v2009,52,Silver,10/9/2013,Yes,10553,,10/22/2010,sq ft
+1000041837,No,D Tower,"249, Cheongjin-dong, Jongno-gu",Seoul,,110-130,South Korea,v2009,67,Gold,12/2/2014,Yes,1135374,,5/1/2014,sq ft
+10323891,No,Songdo IBD Block D17/18,Block D17/18,(New Songdo City) Incheon,,406-130,South Korea,v2.2,,Certified,2/2/2016,Yes,2697636,,10/24/2008,sq ft
+1000004895,No,Seoul Finance Centre,,Seoul,,,South Korea,v2009,68,Gold,10/7/2011,Yes,1411539,,2/22/2010,sq ft
+1000132022,No,Concordian,"76, Saemunan-ro, Jongno-gu",Seoul,,03185,South Korea,v4,67,Gold,2/17/2021,Yes,41517,,6/5/2020,sq m
+1000020131,No,Bloomberg Seoul,"28/F, Mirae Asset Center 1",Seoul,,100-210,Republic of Korea,v2009,83,Platinum,9/7/2012,Yes,11305,,11/13/2011,sq ft
+1000092117,No,EAN Technology New HQ,"EAN Building, 11-19, Teheran-ro 77-gil,",Seoul,,06159,South Korea,v2009,63,Gold,7/1/2018,Yes,1997,,10/27/2016,sq m
+1000052727,No,IBM Korea HQ Relocation to 3IFC,"6F-14F, 3 IFC Seoul",Seoul,,150-945,South Korea,v2009,60,Gold,6/3/2015,Yes,159205,,12/2/2014,sq ft
+1000038799,No,LG Science Park - ISC,Magok District DP3,Seoul,,07796,South Korea,v2009,83,Platinum,3/5/2018,Yes,327188,,1/28/2014,sq m
+1000038800,No,LG Science Park - E2 - LG Display,Magok District DP3,Seoul,,07796,South Korea,v2009,53,Silver,3/5/2018,Yes,533056,,1/28/2014,sq m
+1000038801,No,LG Science Park - E4 - LG Hausys,Magok District DP3,Seoul,,07796,South Korea,v2009,51,Silver,3/5/2018,Yes,405629,,1/28/2014,sq m
+1000038802,No,LG Science Park - LG Chem - S,Magok District DP3,Seoul,,07796,South Korea,v2009,53,Silver,1/28/2021,Yes,729069,,1/28/2014,sq ft
+1000038803,No,LG Science Park - E6 - LG Chem,Magok District DP3,Seoul,,07796,South Korea,v2009,53,Silver,3/5/2018,Yes,553754,,1/28/2014,sq m
+1000038804,No,LG Science Park - E8 - LG Chem,Magok District DP3,Seoul,,07796,South Korea,v2009,51,Silver,3/12/2018,Yes,423692,,1/28/2014,sq m
+1000038805,No,"LG Science Park - E1, E3 - LG Innotek",Magok District DP3,Seoul,,07796,South Korea,v2009,53,Silver,3/5/2018,Yes,759867,,1/28/2014,sq m
+1000038806,No,LG Science Park - Shared Lab Center,Magok District DP3,Seoul,,07796,South Korea,v2009,54,Silver,3/5/2018,Yes,604834,,1/28/2014,sq m
+1000088930,No,Yeouido Post Tower,"60 Yeouinaru-ro, Yeongdeungpo-gu",Seoul,,07328,Republic of Korea,v2009,80,Platinum,7/8/2021,Yes,621067,,10/25/2016,sq ft
+1000016601,No,Grand Hyatt Incheon West Tower,2850-8 UNSEO-DONG JUNG-GU,INCHEON,,400-340,Republic of Korea,v2009,69,Gold,4/13/2015,Yes,763486,,6/21/2011,sq ft
+1000208194,No,Tetra Pak Office,"26, Eulji-ro 5-gil, Jung-gu",Seoul,,04539,Republic of Korea,v4,51,Silver,1/21/2025,Yes,677,,8/27/2024,sq m
+1000207812,No,Seoul International Tower,"203, Teheran-ro, Gangnam-gu",Seoul,,06141,Republic of Korea,v4,64,Gold,10/29/2024,Yes,48516,,8/20/2024,sq m
+1000199039,No,L'OREAL KOREA - Nanda X.O. Project,"517, Yeongdong-daero, Gangnam-gu",Seoul,,06164,Republic of Korea,v4,62,Gold,12/18/2024,Yes,836,,2/29/2024,sq m
+1000211160,No,Christian Dior Shinsegae Kangnam Men,"194 Sinbanpo-ro, Seocho-gu",Seoul,,16545,Republic of Korea,v4,60,Gold,7/1/2025,Yes,284,,11/22/2024,sq m
+1000211162,No,Christian Dior SSG Airport T1,Incheon International Airport Terminal 1,Incheon,,22382,Republic of Korea,v4,62,Gold,10/22/2025,Yes,304,,11/22/2024,sq m
+1000102476,No,Capsule Hotel DARAKHYU by Walkerhill,"272, Gonghang-ro, Jung-gu",Inchon,,22382,Republic of Korea,v4,60,Gold,4/12/2018,Yes,1209,,9/28/2017,sq m
+1000102036,No,Burberry Galleria Timeworld CHW,"211, Daedeok-daero, Seo-gu",Daejeon,,00000,Republic of Korea,v4,56,Silver,4/19/2018,Yes,1184,,9/19/2017,sq m
+1000192081,No,"DIGITAL EDGE, SEL2","422 ChungChundong, Bupyeong-gu",Incheon,,21314,Republic of Korea,v4,54,Silver,2/10/2025,Yes,30530,,1/29/2024,sq m
+1000191770,No,Twin City Namsan - Office and Retail,"366, Hangang dae-ro, Yongsan-gu",Seoul,,04323,Republic of Korea,v4,66,Gold,8/7/2024,Yes,31100,,1/25/2024,sq m
+1000154768,No,Burberry Lotte Busan Women,"772 GAYA-DAERO, BUSANJIN-GU",Busan,,47285,Republic of Korea,v4,67,Gold,6/28/2022,Yes,195,,1/19/2022,sq m
+1000154961,No,Christian Dior SSG Daejeon Art Men,"1 Expo-ro, Yuseong-gu",Daejeon,,34126,Republic of Korea,v4.1,53,Silver,12/8/2022,Yes,161,,1/22/2022,sq m
+1000154971,No,Christian Dior SSG Daejeon Art Women,"1 Expo-ro, Yuseong-gu",Daejeon,,34126,Republic of Korea,v4.1,53,Silver,12/8/2022,Yes,298,,1/23/2022,sq m
+1000154973,No,Cartier Maison Cheongdam,"435 Apgujeong-ro, Gangnam-gu",Seoul,,06010,Republic of Korea,v4.1,60,Gold,9/14/2023,Yes,1161,,1/23/2022,sq m
+1000158957,No,WSP Korea Head Office,741 Yeongdong-daero Gangnam-gu,Seoul,,06071,Republic of Korea,v4,60,Gold,12/21/2022,Yes,1212,,4/26/2022,sq m
+1000159095,No,Semicolon Mullae - Bldg. S,"Mullae-ro 28-gil, Yeongdeungpo-gu",Soul-t'ukpyolsi,,07298,Republic of Korea,v4,84,Platinum,12/11/2022,Yes,35927,,4/28/2022,sq m
+1000159314,No,"lululemon, Itaewon, South Korea","200 Itaewon-ro, Yongsan-gu",Seoul,,04405,Republic of Korea,v4,63,Gold,10/6/2022,Yes,676,,5/3/2022,sq m
+1000159335,No,C4 Construction Project,"A1-2, Galsan-ri, Tangjeong-myeon, Asan-si",Chungcheongnam-do,,33684,Republic of Korea,v4,50,Silver,2/16/2023,Yes,230207,,5/4/2022,sq ft
+1000158764,No,DS Hwasung HPC Center,"214-6, Dongtanwoncheon-ro",Hwaseong,,18448,Republic of Korea,v4,86,Platinum,10/22/2024,Yes,53803,,4/18/2022,sq m
+1000159084,No,Gwanghwamun G Tower,"71, Sambong-ro, Jongno-gu, Seoul",seoul,,03150,Republic of Korea,v4,62,Gold,9/28/2022,Yes,29334,,4/27/2022,sq m
+1000159094,No,Semicolon Mullae - Bldg. N,"Mullae-ro 28-gil, Yeongdeungpo-gu",Soul-t'ukpyolsi,,07298,Republic of Korea,v4,87,Platinum,12/11/2022,Yes,37385,,4/28/2022,sq m
+1000159578,No,Christian Dior SSG Gangnam Women,"194 Sinbanpo-ro, Seocho-gu",Seoul,,16545,Republic of Korea,v4.1,50,Silver,2/22/2023,Yes,365,,5/11/2022,sq m
+1000162233,No,East Central Tower,"1077, Cheonho-daero, Gangdong-gu",Seoul,,05340,Republic of Korea,v4,63,Gold,2/27/2023,Yes,87481,,7/11/2022,sq m
+1000162243,No,Crystal Square,"106, Cheonggyecheon-ro, Jung-gu",Seoul,,04542,Republic of Korea,v4,84,Platinum,2/20/2023,Yes,14437,,7/11/2022,sq m
+1000162274,No,Prada Yongin Shinsegae Gyeonggi B1F,"1285 Jukjeon-dong, Suji-gu, Yongin-si, Gyeonggi-do",Yongin,,10285,Republic of Korea,v4,70,Gold,11/23/2022,Yes,2196,,7/12/2022,sq m
+1000162310,No,MAJESTAR City Tower 2,"12, Seocho-daero 38-gil, Seocho-gu",Seoul,,06655,Republic of Korea,v4.1,81,Platinum,10/31/2022,Yes,24396,,7/13/2022,sq m
+1000188154,No,Schrodinger Seoul Office  Refresh,621 Sampyeong-dong,Seongnam,,13486,Republic of Korea,v4,41,Certified,7/24/2024,Yes,351,,11/26/2023,sq m
+1000205743,No,Incheon TJ Logistics,"37, Gammun 3-ro, Seo-gu",Incheon,,22849,Republic of Korea,v4,62,Gold,12/17/2024,Yes,50051,,6/17/2024,sq m
+1000188123,No,Seoul Square Recertification,"416, Hanggang-daero, Jung-gu",Seoul,,04637,Republic of Korea,v4,83,Platinum,12/6/2024,Yes,1190015,,11/23/2023,sq ft
+1000110046,No,SEOUL SQUARE Platinum Recertification,"416, Hangang-daero, Jung-Gu",Seoul,,04637,Republic of Korea,v4,87,Platinum,7/29/2019,Yes,1190015,,8/1/2018,sq ft
+1000108355,No,IGIS-Korea-Susong Square LEED EB,"19, Yulgok-ro 2-gil",Seoul,,03143,Republic of Korea,v4,55,Silver,12/17/2018,Yes,541575,,5/24/2018,sq m
+1000107674,No,City Square,"85-3 Seosomun-dong, Jung-gu,",Seoul,,04514,Republic of Korea,v4,81,Platinum,12/9/2019,Yes,30562,,4/30/2018,sq m
+1000193961,No,INNO 88,"88, Yulgok-ro, Jongno-gu",Seoul,,03131,Republic of Korea,v4,66,Gold,10/30/2025,Yes,34115,,2/14/2024,sq m
+1000190946,No,Burberry Hyundai Seoul,"108 Yeoui-daero, Yeongdeungpo-gu, Seoul,",Seoul,,00000,Republic of Korea,v4,62,Gold,8/22/2024,Yes,185,,1/15/2024,sq m
+1000174856,No,Yeoju Bonduri Logistics,"18-3, Bondu-ri, Ganam-eup","Yeoju-si,",,12646,Republic of Korea,v4,52,Silver,1/18/2024,Yes,96099,,3/27/2023,sq m
+1000191378,No,Gwang Myeong Hoe,"679, Jungdae-dong, Dong-gu",Daegu,,41001,Republic of Korea,v4,56,Silver,8/31/2025,Yes,573,,1/18/2024,sq m
+1000194328,No,Christian Dior Pangyo Hyundai Baby,"146 Bun-gil 20, Pangyoyeok-ro, Bundang-g",Seongnam,,13529,Republic of Korea,v4,52,Silver,10/14/2024,Yes,98,,2/18/2024,sq m
+1000155641,No,Prada Seoul Hyundai APKU Uomo,4th floor of Hyundai Department Store Apgujeong Main Branch,Seoul,,06001,Republic of Korea,v4,68,Gold,5/10/2022,Yes,1227,,2/9/2022,sq m
+1000155690,No,DGB Financial Center,"125, Namdaemun-ro, Jung-gu",Seoul,,04521,Republic of Korea,v4,64,Gold,9/4/2022,Yes,19002,,2/10/2022,sq m
+1000155677,No,Twin Tree Tower,"6, Yulgok-ro, Jongno-gu",Seoul,,03142,Republic of Korea,v4,83,Platinum,9/27/2022,Yes,492825,,2/9/2022,sq m
+1000156848,No,Burberry Lotte Main Seoul Womens,"81 NAMDAEMUN-RO, JUNG-GU",SEOUL,,04533,Republic of Korea,v4,65,Gold,9/5/2022,Yes,1539,,3/9/2022,sq m
+1000161746,No,Shinhan Bank Giheung Center,"11, Giheungdanji-ro 158beon-gil, Giheung-gu","Yongin-si,",,17086,Republic of Korea,v4,57,Silver,11/9/2022,Yes,209735,,6/30/2022,sq m
+1000176923,No,Seoknam Innovation Logistics Center,224-20 seoknam-dong,Incheon,,22788,Republic of Korea,v4,50,Silver,7/8/2024,Yes,226664,,4/19/2023,sq m
+1000175585,No,Cheongna Logistics Center,391-9 Wonchang-dong,Incheon,,22853,Republic of Korea,v4,61,Gold,4/9/2024,Yes,332786,,4/7/2023,sq m
+1000173355,No,Pyeongtaek Logistics Park,"847,Huegok-ri,",Pyeongtaek-si,,17963,Republic of Korea,v4,64,Gold,3/14/2025,Yes,185915,,3/5/2023,sq m
+1000194494,No,Christian Dior Hyundai Main Women RTW,"165 Apgujeong-ro, Gangnam-gu, Seoul",Seoul,,06001,Republic of Korea,v4,60,Gold,5/8/2025,Yes,284,,2/19/2024,sq m
+1000157161,No,MASTERN REF NO.126-MUSINSA CAMPUS,seongdong-gu,Seoul,,04797,Republic of Korea,v4,63,Gold,11/20/2022,Yes,14114,,3/14/2022,sq m
+1000157199,No,SKT Sphere Sindorim,"662, Gyeongin-ro, Guro-gu",Seoul,,08209,Republic of Korea,v4,62,Gold,9/15/2022,Yes,2334,,3/16/2022,sq m
+1000157210,No,KKR Korea Office Renovation,"26, Eulji-ro 5-gil, Jung-gu",Seoul,,04539,Republic of Korea,v4,63,Gold,8/16/2022,Yes,1305,,3/16/2022,sq m
+1000157220,No,The Pinnacle Yeoksam II,"145 Teheran-ro, Gangnam-gu",Seoul,,06132,Republic of Korea,v4.1,62,Gold,11/16/2022,Yes,13590,,3/16/2022,sq m
+1000157206,No,SKT Sphere Bundang,"6, Hwangsaeul-ro 258beon-gil, Bundang-gu",Seongnam-si,,13595,Republic of Korea,v4,64,Gold,9/15/2022,Yes,1725,,3/15/2022,sq m
+1000160847,No,IGIS 2F Office at Sewoo Bldg.,"Yeouigongwon-ro, Yeongdeungpo-gu",Seoul,,07241,Republic of Korea,v4,61,Gold,1/4/2023,Yes,1050,,6/12/2022,sq m
+1000160382,No,Christian Dior Hyundai Pangyo Men,"20 Pangyoyeok-ro 146 Gil, Bundang-gu",Seongnam-si,,13529,Republic of Korea,v4.1,51,Silver,9/14/2023,Yes,199,,5/29/2022,sq m
+1000152814,No,Christian Dior Seoul The Hyundai,"Parc 1, 108 Yeoui-daero, Yeongdeungpo-gu",Seoul,,07335,Republic of Korea,v4,51,Silver,10/17/2022,Yes,510,,12/13/2021,sq m
+1000185323,No,AMQ Busan Shinsegae Centum City,Centum nam-daero 35,Busan,,48060,Republic of Korea,v4,64,Gold,10/2/2024,Yes,99,,9/21/2023,sq m
+1000152779,No,Project 107,107-12,Seoul,,04550,Republic of Korea,v4,63,Gold,6/28/2025,Yes,32176,,12/12/2021,sq m
+1000158185,No,Timewalk Myeongdong,"78, Namdaemun-ro, Jung-gu",Seoul,,04534,Republic of Korea,v4,65,Gold,12/21/2022,Yes,34754,,4/8/2022,sq m
+1000157758,No,Keppel T Tower,"30, Sowol-ro 2-gil,",Seoul,,04637,Republic of Korea,v4,82,Platinum,12/2/2022,Yes,300056,,3/30/2022,sq ft
+1000161109,No,Van Cleef & Arpels Shinsegae Main 1F,"63, Sogong-ro, Jung-gu 04530",Seoul,,45330,Republic of Korea,v4,55,Silver,10/30/2022,Yes,66,,6/16/2022,sq m
+1000160988,No,Burberry SSG Gangnam WW,"176 Sinbanpo-ro, Seocho-gu",Seoul,,00000,Republic of Korea,v4,61,Gold,1/12/2023,Yes,163,,6/14/2022,sq m
+1000160782,No,Burberry SSG Daegu,"149 Dongbu-ro, Dong-gu",Daegu,,00000,Republic of Korea,v4,60,Gold,7/23/2023,Yes,242,,6/10/2022,sq m
+1000164526,No,Samsung store  Cheongdam,"336, Dosan-daero, Gangnam-gu",Seoul,,06055,Republic of Korea,v4,55,Silver,2/9/2023,Yes,1188,,8/25/2022,sq m
+1000192192,No,KENDALL SQUARE YEOJU,"Ganam-eup, Simseok-ri",Yeoju-si,,12663,Republic of Korea,v4,65,Gold,4/10/2025,Yes,456336,,1/30/2024,sq m
+1000217056,No,Samsung SDS Tower,"125, Olympic-ro 35-gil",Songpa-gu,,05510,Republic of Korea,v4,91,Platinum,10/9/2025,Yes,72833,,5/13/2025,sq m
+1000196212,No,Burberry SSG Centum WW,"35 Centum nam-daero, Haeundae-gu, Busan,",Busan,,00000,Republic of Korea,v4,74,Gold,3/10/2025,Yes,199,,2/26/2024,sq m
+1000196232,No,Burberry SSG Gangnam  Mens,"176 Sinbanpo-ro, Seocho-gu, Seoul, South",seoul,,06001,Republic of Korea,v4,74,Gold,11/15/2024,Yes,126,,2/26/2024,sq m
+1000197272,No,Factorial Seongsu,"314-11, Seongsu-dong 2(i)-ga",Seoul,,06013,Republic of Korea,v4,66,Gold,8/22/2024,Yes,15591,,2/27/2024,sq m
+1000196044,No,CASA LOEWE SEOUL,"446 Apgujeong-ro, Gangnam-gu",Seoul,,06015,Republic of Korea,v4,72,Gold,1/6/2025,Yes,689,,2/25/2024,sq m
+1000196087,No,GIC Seoul Office,"152, Teheran-ro, Gangnam-gu",Seoul,,06236,Republic of Korea,v4,63,Gold,10/28/2024,Yes,353,,2/25/2024,sq m
+1000184124,No,KT&G Sejong Printing Factory,"558, Yanggok-ri",Sejong,,30007,Republic of Korea,v4,61,Gold,9/3/2025,Yes,54069,,8/23/2023,sq m
+1000173776,No,Siheung Logistics Centre,2100-2 Jeongwang-dong,Siheung-si,,15114,Republic of Korea,v4,63,Gold,10/1/2024,Yes,63461,,3/10/2023,sq m
+1000173819,No,Samsung Gangnam,"411 Gangnam-daero, Seocho-gu",Seoul,,06615,Republic of Korea,v4,57,Silver,10/26/2023,Yes,2521,,3/10/2023,sq m
+1000173823,No,Pulmuone Together Welfare Center,"31, Maengni-ro 2beon-gil, Wonsam-myeon,",Yongin-si,,17166,Republic of Korea,v4,64,Gold,10/30/2023,Yes,350,,3/10/2023,sq m
+1000186508,No,Seoul Finance Center,"84, Taepyungro1-ga, Chung-gu",Seoul,,04520,Republic of Korea,v4,81,Platinum,4/4/2024,Yes,1164677,,10/22/2023,sq ft
+1000186553,No,Christian Dior Hyundai Main Women LG,"165 Apgujeong-ro, Gangnam-gu",Seoul,,06001,Republic of Korea,v4,51,Silver,6/5/2024,Yes,136,,10/23/2023,sq m
+1000186556,No,Christian Dior Hyundai Main Men,"165 Apgujeong-ro, Gangnam-gu",Seoul,,06001,Republic of Korea,v4,54,Silver,3/12/2024,Yes,171,,10/23/2023,sq m
+1000186559,No,Christian Dior Hyundai Pangyo Women,"146 Bungil 20, Pangyoyeok-ro, Bundang-gu",Seongnam,,13529,Republic of Korea,v4,53,Silver,4/7/2024,Yes,514,,10/23/2023,sq m
+1000168610,No,"MASTERN REF No.79, D-Tower Donuimum","134, Tongil-ro Jongno-gu",Seoul,,03181,Republic of Korea,v4,86,Platinum,4/26/2023,Yes,72534,,11/21/2022,sq m
+1000168754,No,Seoul City Tower,"Namdaemun-ro 5-ga, Jung-gu #581",Seoul,,04637,Republic of Korea,v4.1,63,Gold,4/17/2023,Yes,40724,,11/23/2022,sq m
+1000167964,No,GREITS Pangyo,"117, Bundangnaegok-ro, Bundang-gu",Seongnam-si,,13529,Republic of Korea,v4,63,Gold,6/2/2023,Yes,69108,,11/8/2022,sq m
+1000167965,No,WISE Tower,"17, Sejong-daero, Jung-gu",Seoul,,04512,Republic of Korea,v4,53,Silver,4/27/2023,Yes,31615,,11/8/2022,sq m
+1000167967,No,SK Securities Building,"31, Gukjegeumyung-ro 8-gil, Yeongdeungpo",Seoul,,07332,Republic of Korea,v4,65,Gold,10/17/2023,Yes,38590,,11/9/2022,sq m
+1000168358,No,CENTERPLACE-Office,"40, Namdaemun-ro 9-gil, Jung-gu",Seoul,,04522,Republic of Korea,v4,66,Gold,9/14/2023,Yes,26813,,11/14/2022,sq m
+1000168409,No,Keppel Yeouido Finance Tower,Yeouido Finance Tower,Yeongdeungpo-gu,,07325,Republic of Korea,v4,73,Gold,11/21/2023,Yes,320721,,11/15/2022,sq ft
+1000168463,No,kakao pangyo agit,"166, Pangyoyeok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Re",Seongnam-si,,13529,Republic of Korea,v4,65,Gold,3/15/2023,Yes,56788,,11/17/2022,sq m
+1000184275,No,Pacific Tower,"41, Sejong-daero 9-gil",Seoul,,04513,Republic of Korea,v4,66,Gold,1/30/2024,Yes,44350,,8/29/2023,sq m
+1000185075,No,Bundang First Tower,"55, Bundang-ro, Bundang-gu",Seongnam-si,,13591,Republic of Korea,v4,64,Gold,3/26/2024,Yes,40295,,9/13/2023,sq m
+1000184592,No,S&P Global Seoul Office Relocation,"136, Sejong-daero, Jung-gu, Seoul, Repub",Seoul,,04520,Republic of Korea,v4,53,Silver,1/21/2024,Yes,407,,9/5/2023,sq m
+1000184920,No,Burberry Hyundai Kintex,"817 Hosu-ro, Ilsanseo-gu, Goyang-si, Gye",Goyang-si,,00000,Republic of Korea,v4,66,Gold,3/21/2024,Yes,175,,9/11/2023,sq m
+1000179640,No,Busan Amnamdong Logistics,"633-3, Amnam-dong, Seo-gu,",Busan,,49273,Republic of Korea,v4,46,Certified,6/23/2025,Yes,54588,,5/12/2023,sq m
+1000171290,No,VCA Hyundai Pangyo,"20, Pangyoyeok-ro 146beon-gil",Gyeonggi-do,,13529,Republic of Korea,v4,53,Silver,7/18/2023,Yes,131,,1/29/2023,sq m
+1000170970,No,Christian Dior Hyundai Main Baby,"165 Apgujeong-ro, Gangnam-gu, Seoul",Seoul,,06001,Republic of Korea,v4,50,Silver,10/31/2023,Yes,86,,1/20/2023,sq m
+1000171289,No,Mapletree Logistics Centre Baeksa 1,"322, Cheongbaengni-ro, Baeksa-myeon, Ich",Icheon-si,,17315,Republic of Korea,v4,63,Gold,6/21/2023,Yes,41148,,1/29/2023,sq m
+1000195791,No,Sihwa MTV 2BL Logistics Center,400 Sihwa Venture-ro,Siheung-si,,15117,Republic of Korea,v4,53,Silver,10/23/2025,Yes,166787,,2/23/2024,sq m
+1000176581,No,The Pinnacle Gangnam,"343 Hakdong-ro, Gangnam-gu",Seoul,,06060,Republic of Korea,v4,64,Gold,1/3/2024,Yes,36539,,4/17/2023,sq m
+1000172840,No,Cheongju SUPEX Center,"Oebuk-dong, Heungdeok-gu",Cheongju-si,,28356,Republic of Korea,v4,54,Silver,5/3/2024,Yes,44254,,2/23/2023,sq m
+1000167220,No,VCA Shinsegae Centum City Busan,"1F 35, Centum nam-daero",Busan-si,,48058,Republic of Korea,v4,54,Silver,7/25/2023,Yes,159,,10/21/2022,sq m
+1000182615,No,TIFFANY & Co. Korea Hyundai Coex PERM,"1F, Hyundai Department Coex store 517 Teheran-Ro, Gangnam-Gu",Seoul,,06000,Republic of Korea,v4,66,Gold,9/24/2024,Yes,264,,7/26/2023,sq m
+1000169606,No,Miu Miu Seoul Hyundai Coex 2F,"517 Teheran-ro, Samseong 1-dong",Seoul,,00000,Republic of Korea,v4,64,Gold,7/17/2023,Yes,144,,12/16/2022,sq m
+1000182052,No,Anseong Mercedes-Benz Korea PDC,"24-26, Iljukdangchon 1-gil",Gyeonggi-do,,17527,Republic of Korea,v4,64,Gold,3/19/2024,Yes,32385,,7/18/2023,sq m
+1000212983,No,BURBERRY SEOUL FLAGSHIP,459 DOSANDAE-RO,Seoul,,06015,Republic of Korea,v4,69,Gold,8/22/2025,Yes,1172,,1/13/2025,sq m
+1000172442,No,TIMES TERRACE,"220, Dongtanjungang-ro",Hwaseong-si,,18445,Republic of Korea,v4.1,69,Gold,9/6/2023,Yes,81817,,2/17/2023,sq m
+1000172150,No,Gimhae Sangdong Logistics Park,"164-1, Daegam-ri, Daedong-myeon",Gimhae,,50804,Republic of Korea,v4,43,Certified,11/10/2024,Yes,131357,,2/12/2023,sq m
+1000172228,No,WALKERHILL T1 TRANSIT HOTEL,"271, Gonghang-ro, Jung-gu",Incheon,,22382,Republic of Korea,v4,64,Gold,11/16/2023,Yes,1000,,2/14/2023,sq m
+1000172231,No,Hines Logistics Iljuk,"13-1, Sinheung-ri, Iljuk-myeon",Anseong,,17526,Republic of Korea,v4,47,Certified,1/16/2025,Yes,88234,,2/14/2023,sq m
+1000171833,No,Courtyard by Marriott Pyeongtaek,"Godeok-myeon, Bangchuk-ri",Pyeongtaek-si,,17821,Republic of Korea,v4,44,Certified,8/31/2025,Yes,20020,,2/8/2023,sq m
+1000178456,No,Python Construction Project,"821, Galsan-ri, Tangjeong-myeon, Asan-si",Chungcheongnam-do,,33684,Republic of Korea,v4,56,Silver,12/19/2024,Yes,322856,,4/27/2023,sq ft
+1000169602,No,Tiffany Korea Shinsegae Gyeonggi,"536, Poeun-daero, Shinsegae GyeonggiYongin-si, Gyeonggi",Seoul,,14086,Republic of Korea,v4,64,Gold,5/5/2023,Yes,2013,,12/16/2022,sq m
+1000198985,No,Diageo Seoul,"521, Teheran-ro, Gangnam-gu",Seoul,,06164,Republic of Korea,v4,64,Gold,12/8/2024,Yes,935,,2/28/2024,sq m
+1000181674,No,NC Tower 1,"509, Teheran-ro, Gangnam-gu",Seoul,,06169,Republic of Korea,v4.1,64,Gold,10/26/2023,Yes,25287,,7/6/2023,sq m
+1000181676,No,NCSOFT R&D Center,"12, Daewangpangyo-ro 644beon-gil, Bundan",Seongnam-si,,13494,Republic of Korea,v4.1,66,Gold,11/14/2023,Yes,66912,,7/6/2023,sq m
+1000180557,No,LOEWE Shinsegae Centum City,"35 Centum-Namdaro, Haeundae-gu",Pusan,,48058,Republic of Korea,v4,55,Silver,8/31/2023,Yes,55,,6/7/2023,sq m
+1000188381,No,Pangyo Techno Valley GB I,"19, Pangyo-ro 256beon-gil, Bundang-gu",Seongnam,,13487,Republic of Korea,v4.1,65,Gold,11/26/2024,Yes,26501,,12/1/2023,sq m
+1000188385,No,Pangyo Techno Valley GB II,"25, Pangyo-ro 256beon-gil, Bundang-gu",Seongnam,,13487,Republic of Korea,v4.1,64,Gold,11/26/2024,Yes,12142,,12/1/2023,sq m
+1000188387,No,CENTRE POINT GWANGHWAMUN,"31, Saemunan-ro 5-gil, Jongno-gu",Seoul,,03173,Republic of Korea,v4.1,65,Gold,11/18/2024,Yes,29474,,12/1/2023,sq m
+1000188441,No,KAKAO Data Center Ansan,"689, Haean-ro, Sangnok-gu",Ansan,,15588,Republic of Korea,v4,48,Certified,1/14/2025,Yes,39630,,12/3/2023,sq m
+1000108419,No,IGIS-Korea-Jeongdong LEED EB,15-5 Jeong-dong,Seoul,,04518,Republic of Korea,v4,67,Gold,11/5/2019,Yes,30595,,5/28/2018,sq m
+1000099603,No,Zara Kangnam,Namseoul Building 1304#3,Seoul,,06611,Republic of Korea,v2009,83,Platinum,11/27/2018,Yes,3420,,5/8/2017,sq m
+1000100042,No,Citibank Seoul Center,"89-29, 2ga, Shinmun-ro, Chongro-gu",Seoul,,03184,Republic of Korea,v2009,41,Certified,1/30/2019,Yes,21203,,6/4/2017,sq ft
+1000100043,No,Citibank Dogok Center,"467-14 Dogok-dong, Gangnam-gu",Seoul,,06292,Republic of Korea,v2009,44,Certified,1/30/2019,Yes,12754,,6/4/2017,sq ft
+1000140484,No,RICH CENTRAL,"96, songdo-dong",Yeonsu-gu,,22009,Republic of Korea,v4,46,Certified,3/30/2022,Yes,24150,,2/3/2021,sq m
+1000138112,No,Opo Logistics Park A1,San 64-125,Gwangju-si,,12774,Republic of Korea,v4,42,Certified,4/14/2022,Yes,74524,,11/26/2020,sq m
+1000138113,No,Opo Logistics Park A2,San 64-125,Gwangju-si,,12774,Republic of Korea,v4,43,Certified,4/14/2022,Yes,37336,,11/26/2020,sq m
+1000138132,No,Opo Logistics Park B2,San 64-125,Gwangju-si,,12774,Republic of Korea,v4,44,Certified,4/14/2022,Yes,38500,,11/26/2020,sq m
+1000122190,No,Won-gok Logistics Park,"915-0, Chilgok-ri, Wongok-myun Ansung-si, Kyunggi-do",Ansung,,17555,Republic of Korea,v4,41,Certified,12/4/2020,Yes,154170,,8/18/2019,sq m
+1000090952,No,NAVER 1784,178-4,Seongnam-si,,13561,Republic of Korea,v2009,86,Platinum,7/11/2025,Yes,1284223,,10/27/2016,sq ft
+1000073853,No,Goyang Logistics Park,"701-0, Wonheung-dong",Goyang-si,,10555,Republic of Korea,v2009,60,Gold,1/30/2019,Yes,199544,,7/7/2016,sq m
+1000070889,No,Gimpo Logistics Park,743 Jeonho-ri,Gim-po,,10094,Republic of Korea,v2009,56,Silver,4/1/2020,Yes,91980,,4/7/2016,sq m
+1000070515,No,Songdo Ara Plaza,Techno park st. 113,Songdo,,22009,Republic of Korea,v2009,47,Certified,1/14/2018,Yes,17745,,4/6/2016,sq m
+1000068562,No,Bucheon Logistics Park,"440-12, Ojeong-dong",Bucheon-si,,14434,Republic of Korea,v2009,64,Gold,4/29/2018,Yes,305059,,3/14/2016,sq m
+1000064704,No,Tangjeong Samsung Child Care Center,Tangjeong-myun Myungam-ri 853,Asan,,336-841,Republic of Korea,v2009,51,Silver,3/8/2016,Yes,44970,,11/30/2015,sq ft
+1000038058,No,NAVER CONNECT ONE,"330-17, Mancheon-ri, Dong-myeon",Chuncheon,,200-852,Republic of Korea,v2009,85,Platinum,9/7/2015,Yes,315365,,1/5/2014,sq ft
+1000035787,No,Chungnam Samsung Academy - EC,"599-1, Myeongam-ri, Tangjeong-myeon",Asan City,,336-741,Republic of Korea,v2009,58,Silver,4/29/2014,Yes,94393,,9/24/2013,sq ft
+1000035788,No,Chungnam Samsung Academy-E,"599-1, Myeongam-ri, Tangjeong-myeon",Asan City,,336-741,Republic of Korea,v2009,53,Silver,2/5/2014,Yes,44960,,9/24/2013,sq ft
+1000035789,No,Chung-nam Samsung High School - LA,"599-1, Myeongam-ri, Tangjeong-myeon",Asan City,,336-741,Republic of Korea,v2009,52,Silver,4/6/2014,Yes,44091,,9/24/2013,sq ft
+1000033066,No,Chung-nam Samsung High School - Admin,"599-1, Myeongam-ri, Tangjeong-myeon",Asan City,,336-741,Republic of Korea,v2009,47,Certified,4/6/2014,Yes,96819,,5/30/2013,sq ft
+1000027948,No,ICHEON MIDAS GOLF RESORT CLUB HOUSE,Seolseongmyeon Songgyeri 1-1,Icheonsi,,467-883,Republic of Korea,v2009,51,Silver,11/4/2013,Yes,65961,,10/18/2012,sq ft
+1000017236,No,NAVER GREEN DATACENTER,"330-17 Mancheon-ri, Dong-myeon",Chuncheon,,200-852,Republic of Korea,v2009,95,Platinum,5/22/2013,Yes,519834,,7/20/2011,sq ft
+1000011227,No,SCP Welfare Center,,Asan-si,,,South Korea,v2009,51,Silver,9/7/2011,Yes,105616,,12/1/2010,sq ft
+1000104244,No,Pulmuone Osong R&D Center,"414-1 Chongjung-ri, Osongup, Heungduckgu",Cheongju,,28164,Republic of Korea,v4,61,Gold,3/29/2020,Yes,13020,,12/14/2017,sq m
+1000103782,No,Burberry Lotte Busan ACC,"772, Gaya-daero, Busanjin-gu",Busan,,47285,Republic of Korea,v4,62,Gold,6/21/2018,Yes,1981,,11/16/2017,sq m
+1000103977,No,Transit Hotel by Walkerhill,"272, Gonghang-ro, Jung-gu",Incheon,,22382,Republic of Korea,v4,63,Gold,4/12/2018,Yes,13993,,11/29/2017,sq m
+1000094166,No,LG Science park- LG Electronics/ Phase 1,Magok District DP2,Seoul,,07796,Republic of Korea,v2009,50,Silver,10/12/2020,Yes,188885,,10/31/2016,sq m
+1000094172,No,LG Sciencepark DP2 Phase 2,Magok District DP2,Seoul,,07796,Republic of Korea,v2009,53,Silver,3/18/2025,Yes,127540,,10/31/2016,sq m
+1000097465,No,Burberry Hanam Starfield,"750, Misa-daero",Hanam-si,,06015,Republic of Korea,v4,43,Certified,4/9/2017,Yes,200,,1/2/2017,sq ft
+1000105226,No,ARMY PN86877 AFH090 Family Towers,USAGH - AFH090 Hamjeong-ri,Pyeongtaek-si,,17979,Republic of Korea,v4,62,Gold,9/12/2024,Yes,56298,,1/25/2018,sq m
+1000190578,No,BorgWarner ChangNyeong Projects,"Changnyeong-gun, Gyeongsangnam-do, Korea",Changnyeong-gun,,50340,Republic of Korea,v4,44,Certified,1/24/2025,Yes,7700,,1/4/2024,sq m
+1000189828,No,KB Life Tower,"298, Gangnam-daero, Gangnam-gu, Seoul, R",Seoul,,06253,Republic of Korea,v4,66,Gold,3/20/2024,Yes,35431,,12/21/2023,sq m
+1000189430,No,The Asset,"14 Seocho-daero 74-gil, Seocho-gu, Seoul",Seoul,,06620,Republic of Korea,v4,83,Platinum,8/28/2024,Yes,64494,,12/14/2023,sq m
+1000189426,No,Genesis - Cheongju,"257 Jikji-daero, Heungdeok-gu",Cheongju,,28358,Republic of Korea,v4,61,Gold,4/2/2025,Yes,4523,,12/14/2023,sq m
+1000142637,No,Uiwang Technopark Warehouse,264-2 I-dong,Uiwang-si,,16079,Republic of Korea,v4,52,Silver,4/28/2022,Yes,62068,,3/24/2021,sq m
+1000142718,No,Logiport West Anseong Complex-II,"40-6, Dogok-ri, Yangseong-myeon",Anseong,,17501,Republic of Korea,v4,50,Silver,2/10/2025,Yes,34120,,3/25/2021,sq m
+1000143171,No,Burberry Seoul Flagship,"459, Dosan-daero",Seoul,,06015,Republic of Korea,v4,62,Gold,10/17/2021,Yes,3876,,4/11/2021,sq m
+1000216481,No,BURBERRY SSG GWANGJU,"932 Mujin-daero, Seo-gu,",Gwangju,,61932,Republic of Korea,v4,68,Gold,11/10/2025,Yes,102,,4/23/2025,sq m
+1000141887,No,MAGOK CP4,"769, Magok-dong",Seoul,,05836,Republic of Korea,v4,53,Silver,1/22/2025,Yes,306169,,3/8/2021,sq m
+1000163632,No,Van Cleef & Arpels Shinsegae Daejeon,"17 EXPO-ro, Doryong-dong, Yuseong-gu",Daejeon,,35229,Republic of Korea,v4,53,Silver,7/21/2023,Yes,134,,8/8/2022,sq m
+1000164340,No,nol-universe office,"70, Geumto-ro (13453)",Seongnam-si,,46138,Republic of Korea,v4,68,Gold,9/18/2024,Yes,45732,,8/22/2022,sq m
+1000164346,No,Burberry Lotte Busan MW,"772 GAYA-DAERO, BUSANJIN-GU",Busan,,47285,Republic of Korea,v4,63,Gold,3/6/2023,Yes,146,,8/22/2022,sq m
+1000164347,No,Burberry SSG Daegu CHW,"149 Dongbu-ro, Dong-gu",Daegu,,00000,Republic of Korea,v4,63,Gold,2/27/2023,Yes,95,,8/22/2022,sq m
+1000165571,No,Hines Logistics Namyang,"289-3, Musong-ri, Namyang-eup",Hwaseong,,18279,Republic of Korea,v4,47,Certified,8/4/2023,Yes,45312,,9/16/2022,sq m
+1000164679,No,Tmax Sunae Tower,"29, Hwangsaeul-ro 258beon-gil, Bundang-gu",Seongnam-si,,13595,Republic of Korea,v4,62,Gold,2/26/2023,Yes,10972,,8/31/2022,sq m
+1000164680,No,Hunus Building,"93, Baekhyeon-ro, Bundang-gu",Seongnam-si,,13595,Republic of Korea,v4,53,Silver,2/23/2023,Yes,9800,,8/31/2022,sq m
+1000164681,No,Top Building,"10, Seongnam-daero 926beon-gil, Bundang-gu",Seongnam-si,,13506,Republic of Korea,v4,54,Silver,3/23/2023,Yes,8850,,8/31/2022,sq m
+1000144844,No,SKYBOX 1,"1549-4 Oryu-dong, Seo-gu, Incheon, Repub",Incheon,,00000,Republic of Korea,v4.1,72,Gold,12/12/2021,Yes,35393,,5/25/2021,sq m
+1000144852,No,SKYBOX 2,"1544-2 Oryudong, Seougu, Incheon, Republ",Incheon,,00000,Republic of Korea,v4.1,67,Gold,12/12/2021,Yes,50210,,5/25/2021,sq m
+1000144702,No,ARC PLACE,"736-1 Yeoksam-dong, Gangnam-gu",Seoul,,00000,Republic of Korea,v4.1,67,Gold,12/12/2021,Yes,41762,,5/23/2021,sq m
+1000163681,No,Dior Seoul Galleria W Shoe Store,"343 Apgujeong-ro, Gangnam-gu",Seoul,,06008,Republic of Korea,v4.1,50,Silver,5/8/2023,Yes,102,,8/9/2022,sq m
+1000166011,No,CJ THE CENTER,"12, Sowol-ro 2-gil, Jung-gu",Seoul,,04637,Republic of Korea,v4,65,Gold,3/14/2023,Yes,16670,,9/27/2022,sq m
+1000166012,No,Mastern Investment Trust No. 156,"Gumi-ro, Bundang-gu",Seongnam-si,,13638,Republic of Korea,v4,64,Gold,3/26/2023,Yes,33344,,9/27/2022,sq m
+1000167136,No,Pyeongtaek Gisul2dong,"Gisul2dong, 114, Samseong-ro",Pyeongtaek,,17786,Republic of Korea,v4,83,Platinum,4/25/2024,Yes,48853,,10/20/2022,sq m
+1000167159,No,Taepyeongro Building,"73, Sejong-daero, Jung-gu",Seoul,,04514,Republic of Korea,v4,82,Platinum,5/16/2023,Yes,31696,,10/20/2022,sq m
+1000145156,No,KLC2 KOREA LOGISTICS CENTER,"3243-34 Unseo-dong, Jung-gu",Incheon,,22379,Republic of Korea,v4,60,Gold,7/6/2023,Yes,32305,,6/4/2021,sq m
+1000215611,No,Koreit Tower,"137, Teheran-ro, Gangnam-gu, Seoul, Repu",Seoul,,06132,Republic of Korea,v4,64,Gold,11/9/2025,Yes,25345,,3/31/2025,sq m
+1000140399,No,Cartier Lotte Myungdong DF,10F Lotte MD DF,Seoul,,04533,Republic of Korea,v4,44,Certified,11/11/2021,Yes,263,,2/1/2021,sq m
+1000166010,No,L'Oreal Korea - Seoul X.O. Project,"517, Yeongdong-daero, Gangnam-gu",Seoul,,06164,Republic of Korea,v4,60,Gold,3/26/2024,Yes,5080,,9/27/2022,sq m
+1000166812,No,Gangnam N Tower,"129, Teheran-ro, Gangnam-gu",Seoul,,06133,Republic of Korea,v4,65,Gold,3/15/2023,Yes,41725,,10/13/2022,sq m
+1000142283,No,Prada Seoul Shinsegae Gangnam 2F,"176, Sinbanpo-ro, Seocho-gu",Seoul,,06546,Republic of Korea,v4,60,Gold,4/21/2022,Yes,1658,,3/18/2021,sq m
+1000141953,No,H SQUARE,"81, Yanghwa-ro, Mapo-gu",Seoul,,04034,Republic of Korea,v4,57,Silver,8/8/2021,Yes,10208,,3/10/2021,sq m
+1000208990,No,Parc1 NH FINANCE TOWER-Tower2,"108, Yeoui-daero, Yeongdeungpo-gu",Seoul,,07335,Republic of Korea,v4,81,Platinum,5/8/2025,Yes,123787,,9/23/2024,sq m
+1000209207,No,Arc Place,"142, Teheran-ro",Seoul,,06236,Republic of Korea,v4,89,Platinum,8/7/2025,Yes,497185,,9/26/2024,sq ft
+1000206147,No,BNK Digital Tower,"398, Seocho-daero, Seocho-gu",Seoul,,06619,Republic of Korea,v4,62,Gold,11/26/2024,Yes,26151,,6/26/2024,sq m
+1000198423,No,Alexander McQueen Seoul Galleria East,"Galleria Department Store EAST, 407 Apgu",Seoul,,06009,Republic of Korea,v4,62,Gold,7/18/2024,Yes,86,,2/28/2024,sq m
+1000207324,No,Applied Materials Korea NF Summit Office,"200-18, Godeokjungang-ro",Pyeongtaek,,18014,Republic of Korea,v4,56,Silver,6/25/2025,Yes,5872,,8/1/2024,sq m
+1000211359,No,Alfa Laval Korea Office,"110, Huam-ro, Jung-gu",Seoul,,04637,Republic of Korea,v4,53,Silver,8/4/2025,Yes,700,,12/2/2024,sq m
+1000203178,No,Logis1 Icheon Baeksa,"353, Cheongbaengni-ro 393beon-gil, Baeks","Icheon-si, Gyeonggi-do",,17314,Republic of Korea,v4.1,63,Gold,12/4/2024,Yes,64689,,3/29/2024,sq m
+1000202028,No,D-Cube City Office,"662 Gyeongin-ro, Guro-gu,",Seoul,,08209,Republic of Korea,v4.1,67,Gold,11/12/2024,Yes,55116,,3/4/2024,sq m
+1000204278,No,Mirae Asset CENTER1,"26, Eulji-ro 5-gil, Jung-gu",Seoul,,04539,Republic of Korea,v4,92,Platinum,11/14/2024,Yes,1380784,,5/12/2024,sq ft
+1000204848,No,Namsan Sowol Tower,"24, Toegye-ro, Jung-gu",Seoul,,04637,Republic of Korea,v4.1,81,Platinum,9/19/2024,Yes,40517,,5/22/2024,sq m
+1000205278,No,Anseong Logistics Center A,"583, Cheondeoksan-ro, Wongok-myeon",Anseong-si,,17554,Republic of Korea,v4,66,Gold,1/19/2025,Yes,417166,,6/2/2024,sq m
+1000205280,No,Anseong Logistics Center B,"581, Cheondeoksan-ro, Wongok-myeon",Anseong-si,,17554,Republic of Korea,v4,61,Gold,1/19/2025,Yes,19963,,6/2/2024,sq m
+1000205351,No,Jeongdong Building,"21-15, Jeongdong-gil, Jung-gu",Seoul,,04518,Republic of Korea,v4,64,Gold,1/9/2025,Yes,330549,,6/4/2024,sq m
+1000169409,No,Centre Point Gangnam,"8, Teheran-ro 8-gil, Gangnam-gu",Seoul,,06233,Republic of Korea,v4,66,Gold,2/13/2025,Yes,22500,,12/13/2022,sq m
+1000168969,No,adidas Brand Flagship Seoul,"27, Myeongdong 8-gil, Jung-gu",Seoul,,04536,Republic of Korea,v4,69,Gold,5/1/2023,Yes,26922,,12/1/2022,sq ft
+1000169503,No,DITTO Data Center,"77-80, Yangpyeong-dong 3(sam)-ga, Yeongd",Seoul,,07218,Republic of Korea,v4,52,Silver,4/14/2025,Yes,26359,,12/13/2022,sq m
+1000169504,No,Christian Dior Lotte Main Women RTW,"18 Namdaemun-ro, Jung-gu",Seoul,,04533,Republic of Korea,v4,51,Silver,5/1/2023,Yes,131,,12/13/2022,sq m
+1000179977,No,Research Building,"1266-20, Eung-am-ri",Taegu,,43008,Republic of Korea,v4,43,Certified,8/27/2024,Yes,2424,,5/22/2023,sq m
+1000179978,No,Proto & Test Building,"1266-20, Eung-am-ri",Daegu,,43008,Republic of Korea,v4,43,Certified,8/27/2024,Yes,3035,,5/22/2023,sq m
+1000179887,No,Gangnam Finance Center,"40F, Gangnam Finance  Center",Seoul,,06236,Republic of Korea,v4,86,Platinum,10/17/2023,Yes,1707788,,5/18/2023,sq ft
+1000180148,No,Nokia KR Seoul Relocation,"203 Teheran-ro, Gangnam-gu",Seoul,,06141,Republic of Korea,v4,63,Gold,10/5/2023,Yes,794,,5/26/2023,sq m
+1000215460,No,STATE TOWER NAMSAN,"100, Toegye-ro",Seoul,,04631,Republic of Korea,v4,85,Platinum,8/28/2025,Yes,565708,,3/25/2025,sq ft
+1000215609,No,HSBC Building,"37 Chilpae-ro, Jung-gu, Seoul, 04511, Re",Seoul,,04511,Republic of Korea,v4,64,Gold,10/13/2025,Yes,26801,,3/31/2025,sq m
+1000215610,No,Greits Cheonggye,"120, Namdaemun-ro, Jung-gu, Seoul, Repub",Seoul,,04540,Republic of Korea,v4,63,Gold,10/13/2025,Yes,8887,,3/31/2025,sq m
+1000167753,No,KZ Safety Education Center,"186, Ijin-ro, Onsan-eup, Ulju-gun, Ulsan",Ulsan,,45010,Republic of Korea,v4,54,Silver,2/10/2025,Yes,4043,,11/3/2022,sq m
+1000170043,No,Westgate Tower,Chungjeong no 70,Seoul,,03738,Republic of Korea,v4,71,Gold,3/3/2024,Yes,22386,,12/28/2022,sq m
+1000177792,No,Susong Sqaure,"19, Yulgok-ro 2-gil, Jongno-gu",Seoul,,03143,Republic of Korea,v4.1,66,Gold,9/15/2023,Yes,38524,,4/25/2023,sq m
+1000177763,No,ONE CENTINEL,"- 70, Yeoui-daero, Yeongdeungpo-gu, Seou",Seoul,,07325,Republic of Korea,v4,70,Gold,3/19/2024,Yes,47863,,4/24/2023,sq m
+1000151083,No,Anseong Bangcho2 Logistics Center,#221 and 39 lots Bancho-ri Iljuk-myeon,Anseong-si,,17525,Republic of Korea,v4,42,Certified,11/21/2025,Yes,96997,,10/28/2021,sq m
+1000210079,No,LogisHub Incheon,"196, Wonseok-ro, Seo-gu,",Incheon,,22769,Republic of Korea,v4.1,66,Gold,3/13/2025,Yes,85942,,10/25/2024,sq m
+1000180104,No,ASML Hwaseong New Campus P1 Office,682-2 Song-dong,Hwaseong-si,,00000,Republic of Korea,v4,64,Gold,11/24/2025,Yes,22353,,5/24/2023,sq m
+1000180105,No,ASML Hwaseong New Campus P1 Daycare,682-2 Song-dong,Hwaseong-si,,00000,Republic of Korea,v4,72,Gold,11/24/2025,Yes,458,,5/24/2023,sq m
+1000124127,No,Burberry Lotte Main ACC,"81, Namdaemun-ro, Jung-gu",Seoul,,04533,Republic of Korea,v4,51,Silver,2/12/2020,Yes,69,,9/27/2019,sq m
+1000122006,No,Chanel DC Bucheon Kendall Square,"80, Sinheung-ro 511beon-gil",Bucheon,,14446,Republic of Korea,v4,74,Gold,3/26/2020,Yes,13287,,8/14/2019,sq m
+1000123868,No,Burberry Hyundai Coex Womens,"517 Teheran-ro, Gangnam-gu",Seoul,,06164,Republic of Korea,v4,54,Silver,12/8/2019,Yes,155,,9/20/2019,sq m
+1000123869,No,Burberry Lotte Daegu,"161,TAEPYEONG-RO, JUNG-GU",DAEGU,,41903,Republic of Korea,v4,51,Silver,1/22/2020,Yes,219,,9/20/2019,sq m
+1000124096,No,HP Printing Korea Alphadom 6.3,"537 Baekhyeon-dong,",Seongnam-si,,13529,Republic of Korea,v4,52,Silver,2/13/2020,Yes,26292,,9/25/2019,sq m
+1000123293,No,Prada Yeoju Outlet,"360, Myeongpum-ro, Yeoju-si",Yeoju-si,,12646,Republic of Korea,v4,64,Gold,10/8/2020,Yes,9257,,9/4/2019,sq m
+1000123576,No,Yeongjong SkyLogis Center,"779-11, Unbuk-dong, Jung-gu",Incheon,,22362,Republic of Korea,v4,57,Silver,10/7/2021,Yes,186024,,9/10/2019,sq m
+1000148006,No,IGIS Seoul HQ Lounge at Sewoo Bldg.,"115, Yeouigongwon-ro, Yeongdeungpo-gu",Seoul,,07241,Republic of Korea,v4,63,Gold,2/6/2022,Yes,1555,,8/18/2021,sq m
+1000151075,No,Tiffany Galleria East Seoul,"407 Apgujeong-ro, Gangnam-Gu, 06009, Korea",Seoul,,45330,Republic of Korea,v4,63,Gold,6/27/2022,Yes,1313,,10/27/2021,sq m
+1000151076,No,Namsan Square,173,Seoul,,04554,Republic of Korea,v4,63,Gold,4/13/2022,Yes,66455,,10/28/2021,sq m
+1000151084,No,Shinhan L Tower,358,Seoul,,04542,Republic of Korea,v4,56,Silver,7/14/2022,Yes,24805,,10/28/2021,sq m
+1000151652,No,OPUS 459,"459, Gangnam-daero, Seocho-gu",Seoul,,17180,Republic of Korea,v4,64,Gold,9/7/2025,Yes,18100,,11/11/2021,sq m
+1000124614,No,Burberry SSG GWANGJU CHW,"932, Mujin-daero, Seo-gu",Gwangju,,61937,Republic of Korea,v4,53,Silver,3/17/2020,Yes,91,,10/11/2019,sq m
+1000150585,No,CLK8 Data Center -SL2x,"585, HYANGDONG DONG, DEOGYANG GU",GOYANG SI,,10545,Republic of Korea,v4,51,Silver,7/8/2024,Yes,20556,,10/14/2021,sq m
+1000149884,No,Dongtan Central Logis Hub,Gyeonggidong-ro,Hwaseong-si,,18509,Republic of Korea,v4,54,Silver,12/6/2022,Yes,54025,,9/29/2021,sq m
+1000152237,No,Christian Dior Lotte Jamsil Men,"300 Olympic-ro, Songpa-gu",Seoul,,05551,Republic of Korea,v4,51,Silver,7/7/2022,Yes,170,,12/3/2021,sq m
+1000152300,No,Prada Daejeon Hyundai Premium Outlet,Yuseong-gu,Daejeon,,34000,Republic of Korea,v4,64,Gold,3/8/2022,Yes,8611,,12/5/2021,sq m
+1000152520,No,Arenas Anseong Logis Center,"San 11-4, Sanjeong-ri, Yangseong-myeon",Anseong,,17501,Republic of Korea,v4,60,Gold,7/23/2025,Yes,114835,,12/8/2021,sq m
+1000214816,No,Orange Center,"37, Sejong-daero 7-gil, Jung-gu",Seoul,,04511,Republic of Korea,v4.1,75,Gold,11/9/2025,Yes,26461,,3/5/2025,sq m
+1000146234,No,H-Cube,"140, Yanghwa-ro, Mapo-gu",Seoul,,04050,Republic of Korea,v4,85,Platinum,5/3/2023,Yes,12530,,7/7/2021,sq m
+1000146135,No,Tiffany Korea Hyundai Parc,"108 Yeoui-daero, Yeongdeungpo-gu",Seoul,,07308,Republic of Korea,v4,65,Gold,12/10/2021,Yes,1970,,7/6/2021,sq m
+1000145720,No,Seongkwang Logistics,"45, Arayuk-ro 57beon-gil, Gochon-eup",Gimpo,,10136,Republic of Korea,v4,62,Gold,1/6/2022,Yes,22560,,6/23/2021,sq m
+1000111085,No,Citibank Korea Bundang Center,"15F Alphadom Tower, 537, Baekhyeon-dong, Bundang-gu",Seongnam-si,,13529,Republic of Korea,v2009,41,Certified,1/7/2020,Yes,28683,,9/11/2018,sq ft
+1000119384,No,WeWork Tower,"427, Teheran-ro, Gangnam-gu",Seoul,,06159,Republic of Korea,v4,53,Silver,8/15/2019,Yes,11769,,5/9/2019,sq m
+1000119931,No,Songdo Site of Henkel Korea,"218 - 6~7, Songdo-dong, Yeonsu-gu",Incheon,,21991,Republic of Korea,v4,63,Gold,3/2/2021,Yes,10159,,5/26/2019,sq m
+1000120837,No,Adidas Warehouse,64 Doilyutong-gil,Pyeongtaek-si,,17725,Republic of Korea,v4,66,Gold,1/13/2020,Yes,45115,,6/27/2019,sq m
+1000111878,No,GGGI HQ Green Office Renovation,"21-15, Jeongdong-gil, Jung-gu",Seoul,,04518,Republic of Korea,v4,62,Gold,11/30/2018,Yes,1786,,10/15/2018,sq m
+1000121962,No,Platinum Tower,"398, Seocho-daero, Seocho-gu, Seoul, South Korea",Seoul,,06619,Republic of Korea,v4,64,Gold,12/3/2019,Yes,26031,,8/12/2019,sq m
+1000121742,No,HPPK R&D CENTER,"San 34-6, Godeung-dong, Sujeong-gu",Seongnam-si,,13105,Republic of Korea,v4,65,Gold,4/12/2022,Yes,51846,,8/1/2019,sq m
+1000116874,No,LOTTE ACADEMY OSAN CAMPUS,Osan City Kyunggidong-ro 168,Osan,,18148,Republic of Korea,v4,60,Gold,1/18/2022,Yes,46120,,3/21/2019,sq m
+1000118284,No,PANGYO ALPHADOM CITY 6-2 BL DEVELOPMENT,"534, Baekhyeon-dong",Seongnam-si,,13529,Republic of Korea,v4,54,Silver,12/13/2021,Yes,141641,,4/24/2019,sq m
+1000118291,No,PANGYO ALPHADOM CITY 6-1 BL DEVELOPMENT,"532, Baekhyeon-dong",Seongnam-si,,13529,Republic of Korea,v4,54,Silver,12/13/2021,Yes,114486,,4/24/2019,sq m
+1000133088,No,Northgate Building,55 Saemunan-ro 5-gil Jongno-gu,Seoul,,03170,Republic of Korea,v4,68,Gold,2/4/2021,Yes,24830,,7/14/2020,sq m
+1000210077,No,LogisHub Yeoju A-2,"926, Bondu-ri, Ganam-eup",Yeoju-si,,12656,Republic of Korea,v4.1,74,Gold,3/13/2025,Yes,51935,,10/25/2024,sq m
+1000220281,No,"SWISS RE ASIA PTE. LTD., KOREA BRANCH","15F, Tower A, Centropolis Building, Ujeo",Seoul,,03161,Republic of Korea,v4,64,Gold,11/24/2025,Yes,861,,8/1/2025,sq m
+1000215742,No,POSCO Tower Songdo: Office,"165, Convensia-daero Yeonsu-gu",Incheon,,21998,Republic of Korea,v4.1,16,Platinum,11/26/2025,Yes,87625,,4/2/2025,sq m
+1000117087,No,CENTERFIELD,"(to Hwang D.Y) 3F Hanhwa Estate Office, East tower",Seoul,,06142,Republic of Korea,v4,69,Gold,5/12/2021,Yes,239105,,3/28/2019,sq m
+1000150959,No,Sindaeri Logistics A,"134-14 Shindae-gil, gonjiam-eup",Gwangju-si,,12801,Republic of Korea,v4.1,64,Gold,6/29/2022,Yes,45207,,10/25/2021,sq m
+1000137257,No,GUCCI GAOK,"737-24, Hannam-dong",Seoul,,04349,Republic of Korea,v4,57,Silver,10/6/2021,Yes,12185,,10/30/2020,sq ft
+1000139220,No,NAVER Data Center GAK SEJONG,828 Haengbogdaero,Sejong-si,,30142,Republic of Korea,v4,86,Platinum,5/20/2024,Yes,148026,,12/22/2020,sq m
+1000129365,No,Tiffany Lotte Downtown,"JUNG-GU, Seoul",Seoul,,45046,Republic of Korea,v4,62,Gold,5/20/2020,Yes,159,,2/27/2020,sq m
+1000151691,No,GO&S Yongin Logistics A Block,"539-6, Mapyeong-dong, Cheoin-gu",Yongin,,17144,Republic of Korea,v4,52,Silver,2/13/2024,Yes,47682,,11/14/2021,sq m
+1000151701,No,GO&S Yongin Logistics B Block,"539-7, Mapyeong-dong, Cheoin-gu",Yongin,,17144,Republic of Korea,v4,53,Silver,2/18/2024,Yes,84275,,11/14/2021,sq m
+1000151730,No,L Square Mieum Logistics Center,"1656-2, Mieum-dong, Gangseo-gu",Busan,,46747,Republic of Korea,v4,50,Silver,9/20/2022,Yes,66223,,11/16/2021,sq m
+1000147183,No,Loreal Professional Academy,"51, Teheran-ro 87-gil, Gangnam-gu",Seoul,,06166,Republic of Korea,v4,61,Gold,2/3/2022,Yes,653,,7/27/2021,sq m
+1000147706,No,Geomdan LP,457-1,Seo-gu,,22687,Republic of Korea,v4,63,Gold,10/25/2023,Yes,107881,,8/9/2021,sq m
+1000152671,No,Samsung Display Research Building,"1, Samsung-ro, Giheung-gu",Yongin-si,,17113,Republic of Korea,v4,85,Platinum,7/29/2024,Yes,166530,,12/9/2021,sq m
+1000114799,No,Citibank Korea at Young City Building,"8F - 10F, Young City South",Seoul,,07298,Republic of Korea,v4,63,Gold,2/21/2020,Yes,4826,,1/21/2019,sq m
+1000214666,No,Miu Miu Seoul Galleria,"343 Apgujeong-ro, Gangnam District, Seou",Seoul,,06000,Republic of Korea,v4,60,Gold,11/11/2025,Yes,137,,2/28/2025,sq m
+1000125728,No,Hosoo Building,"648 Gukchaebosang-ro,Jung-gu",Daegu,,41939,Republic of Korea,v4,54,Silver,2/12/2020,Yes,31635,,11/6/2019,sq m
+1000129807,No,JLL Seoul office at ONE IFC,"10, Gukjegeumyung-ro, Yeongdeungpo-gu, One IFC",Seoul,,07326,Republic of Korea,v4,65,Gold,2/2/2021,Yes,1350,,3/16/2020,sq m
+1000129858,No,Burberry SSG Gwangju,"932, Mujin-daero, Seo-gu",Gwangju,,61937,Republic of Korea,v4,53,Silver,7/31/2020,Yes,104,,3/17/2020,sq m
+1000130790,No,Iljuk Logistics Park,"San34-9, Neungguk-ri, Iljuk-myeon",Anseong,,17527,Republic of Korea,v4,41,Certified,8/4/2021,Yes,63471,,4/19/2020,sq m
+1000130789,No,Changwon Logistics Park 6-1 Block,"1874, Du-dong, Jinhae-gu",Changwon,,51599,Republic of Korea,v4,46,Certified,5/27/2021,Yes,65613,,4/20/2020,sq m
+1000130814,No,Changwon Logistics Park 5-1 Block,"1869, Du-dong, Jinhae-gu",Changwon,,51599,Republic of Korea,v4,46,Certified,5/27/2021,Yes,47556,,4/20/2020,sq m
+1000130780,No,GRAND CENTRAL,253,Seoul,,04527,Republic of Korea,v4,73,Gold,4/8/2021,Yes,1128050,,4/19/2020,sq ft
+1000125740,No,adidas Hongdae Brand Center,148 Yanghwa-ro,SEOUL,,04050,Republic of Korea,v4,77,Gold,4/13/2020,Yes,19453,,11/6/2019,sq ft
+1000133509,No,UBS Seoul Centropolis,"26, Ujeongguk-ro, Jongno-gu",Seoul,,03161,Republic of Korea,v4,63,Gold,12/22/2021,Yes,1146,,8/2/2020,sq m
+1000129489,No,Cartier Seoul Galleria,"407 Apgujeong-ro, Gangnam-gu",Seoul,,06009,Republic of Korea,v4,50,Silver,9/7/2020,Yes,290,,3/3/2020,sq m
+1000129532,No,Cartier Shinsegae Centum,"35 Centum Namdaro, Haeundae-gu",Pusan,,48058,Republic of Korea,v4,51,Silver,8/5/2020,Yes,232,,3/3/2020,sq m
+1000129488,No,Citibank Korea at CBC Building,"50, Saemunan-ro, Jongno-gu",Seoul,,03184,Republic of Korea,v4,56,Silver,8/14/2020,Yes,8572,,3/2/2020,sq m
+1000127906,No,Icheon Logiport,"253 Ichi-ri, Majang-myeon",Icheon,,17384,Republic of Korea,v4,62,Gold,7/23/2020,Yes,43379,,1/17/2020,sq m
+1000131672,No,MIU MIU Hyundai Pangyo Department Store,"20, Pangyoyeok-ro, 146beon-gil, Bundang-gu",Seongnam-si,,13584,Republic of Korea,v4,68,Gold,8/4/2020,Yes,172,,5/21/2020,sq m
+1000131673,No,Prada Korea Hyundai Gangnam DFS,"517, Teheran-ro, Gangnam-gu",Seoul,,06236,Republic of Korea,v4,67,Gold,8/6/2020,Yes,1475,,5/22/2020,sq m
+1000131531,No,Daegu Samsung Life Insurance Building,2095 Dalgubeol-daero,"Jung-gu, Daegu-si",,41936,Republic of Korea,v4,64,Gold,1/11/2021,Yes,60970,,5/19/2020,sq m
+1000131938,No,O2 Tower,"83, Uisadang-daero, Yeongdeungpo-gu",Seoul,,07325,Republic of Korea,v4,61,Gold,12/9/2020,Yes,31659,,6/3/2020,sq m
+1000131966,No,City Plaza,"17, Gukjegeumyung-ro 2-gil, Yeongdeungpo-gu,",Seoul,,07327,Republic of Korea,v4,56,Silver,12/1/2020,Yes,11685,,6/3/2020,sq m
+1000131526,No,Burberry SSG Gangnam Women,"176, Sinbanpo-ro",Seoul,,06546,Republic of Korea,v4,62,Gold,1/5/2021,Yes,153,,5/19/2020,sq m
+1000131324,No,MGL Seoul Relocation,"26 Ujeongguk-ro, Gongpyeong-dong",Seoul,,03161,Republic of Korea,v4,64,Gold,11/17/2020,Yes,3190,,5/12/2020,sq m
+1000126755,No,Prada Daegu Lotte,"161 Taepyeong-ro, Buk-gu",Daegu,,41581,Republic of Korea,v4,68,Gold,6/23/2020,Yes,2799,,12/11/2019,sq m
+1000133800,No,Credit Suisse Seoul Office Relocation,"26, Ujeongguk-ro, Jongno-gu",Seoul,,03161,Republic of Korea,v4,65,Gold,6/29/2021,Yes,2501,,8/12/2020,sq m
+1000137993,No,Namsa Logistics Park,"139, Buk-ri, Namsa-myeon, Cheoin-gu",Yongin,,17118,Republic of Korea,v4,44,Certified,6/21/2022,Yes,52753,,11/22/2020,sq m
+1000139498,No,Citibank Yongsan Branch,"C itibank 2F,  17, Seobinggo-ro",Yongsan-gu,,04387,Republic of Korea,v2009,53,Silver,5/26/2021,Yes,2847,,12/31/2020,sq ft
+1000139569,No,New NOVA Factory,"73, Beombang 2-ro, Gangseo-gu",Busan,,46924,Republic of Korea,v4,54,Silver,1/31/2023,Yes,278806,,1/6/2021,sq ft
+1000137469,No,McKinsey Seoul Office at Three IFC,"54F, International Finance Centre Seoul",Seoul,,07326,Republic of Korea,v4,62,Gold,10/12/2021,Yes,2403,,11/5/2020,sq m
+1000220285,No,Hwaseong CDC Logistics Center A,"42, Bukbumaeul-gil, Jangan-myeon",Hwaseong-si,,18574,Republic of Korea,v4.1,69,Gold,12/16/2025,Yes,76115,,8/1/2025,sq m
+1000218603,No,Burberry Hyundai Incheon Airport T1,"Hyundai Incheon Airport T1,","Incheon, 22382, Korea",,22382,Republic of Korea,v4,63,Gold,12/30/2025,Yes,132,,6/23/2025,sq m
+1000217274,No,Vacheron Constantin Seoul Flagship,"430 Apgujeong-ro, Cheongdam-dong",Seoul,,06015,Republic of Korea,v4,56,Silver,10/7/2025,Yes,857,,5/20/2025,sq m
+1000129846,No,TP Tower,"27, Yeouinaru-ro, Yeongdeungpo-gu",Seoul,,07321,Republic of Korea,v4,61,Gold,8/23/2024,Yes,115583,,3/18/2020,sq m
+1000210463,No,Hanssem HQ,179 Seongam-ro,Mapo-gu,,03929,Republic of Korea,v4.1,73,Gold,3/11/2025,Yes,49888,,11/5/2024,sq m
+1000210075,No,LogisHub Yeoju A-1 & B,"928, Bondu-ri, Ganam-eup",Yeoju-si,,12656,Republic of Korea,v4.1,61,Gold,3/5/2025,Yes,70850,,10/25/2024,sq m
+1000180106,No,ASML Hwaseong New Campus  P2,60-4 BL1160-104 Song-dong,Hwaseong-si,,00000,Republic of Korea,v4,52,Silver,12/10/2025,Yes,16392,,5/24/2023,sq m
+1000219925,No,K-Twin Tower,"50, Jong-ro 1-gil, Jongno-gu",Seoul,,03142,Republic of Korea,v4,82,Platinum,12/18/2025,Yes,65857,,7/21/2025,sq m
+1000214265,No,Synopsys Korea New Office Relocation KR0,"660, Daewangpangyo-ro, Bundang-gu",Seoul,,13494,Republic of Korea,v4,62,Gold,10/12/2025,Yes,3158,,2/17/2025,sq m
+1000149918,No,Hana Financial Investment Building,"82, Uisadang-daero, Yeongdeungpo-gu",Seoul,,07321,Republic of Korea,v4,67,Gold,4/25/2022,Yes,469424,,9/30/2021,sq m
+1000149939,No,ICN16 Amazon Office 10 to 11F,"231, Teheran-ro, Gangnam-gu",Seoul,,06142,Republic of Korea,v4,61,Gold,10/6/2022,Yes,3094,,9/30/2021,sq m
+1000149960,No,ICN16 Amazon Office 12 to 18F,"231, Teheran-ro, Gangnam-gu",Seoul,,06142,Republic of Korea,v4,62,Gold,6/1/2022,Yes,12250,,9/30/2021,sq m
+1000150666,No,Van Cleef & Arpels Galleria Seoul,"407 Apgujeong-ro, Gangnam-Gu, 06009, Korea",Seoul,,45330,Republic of Korea,v4,55,Silver,6/27/2022,Yes,110,,10/19/2021,sq m
+1000217791,No,Concordian Recertification,"76, Saemunan-ro, Jongno-gu",Seoul,,03185,Republic of Korea,v4,80,Platinum,12/1/2025,Yes,41517,,5/28/2025,sq m
+1000217178,No,Eulji Twin Tower - West Tower And Retail,"170, Eulji-ro, Jung-gu,",Seoul,,04548,Republic of Korea,v4.1,67,Gold,10/12/2025,Yes,68532,,5/16/2025,sq m
+1000222183,No,LX Pantos Megawise Logistics Center,"393-50,51 Wonchang-dong, Seo-gu",Incheon,,22856,Republic of Korea,v4,61,Gold,12/15/2025,Yes,895274,,9/19/2025,sq ft
+1000208063,No,Kendall Square Ilsan DC Warehouse,"101-11, Sarihyeon-ro, Ilsandong-gu",Goyang-si,,10315,Republic of Korea,v4.1,63,Gold,1/17/2025,Yes,18978,,8/23/2024,sq m
+1000213312,No,Mapletree Logistics Centre Hobeob3,"257-21, Deokpyeong-ro, Hobeop-myeon,",Icheon-si,,17396,Republic of Korea,v4.1,67,Gold,6/19/2025,Yes,54332,,1/22/2025,sq m
+1000141091,No,Logisco Yangji,"920, Yangji-ri, Yangji-myeon, Cheoin-gu",Yongin-si,,17158,Republic of Korea,v4,46,Certified,2/26/2026,Yes,162429,,2/16/2021,sq m
+1000143336,No,Goyang Logistics Park,"570, Gwonyul-daero, Deogyang-gu",Goyang,Kyonggi-do,10550,Republic of Korea,v4.1,61,Gold,9/1/2021,Yes,199678,,4/16/2021,sq m
+1000213316,No,Sigma Tower Office,"289, Olympic-ro, Songpa-gu,",Seoul,Soul-t?ukpyolsi,05510,Republic of Korea,v4.1,70,Gold,6/20/2025,Yes,27814,,1/22/2025,sq m
+1000072874,No,Alphadom Tower,"537 Baekhyeon-dong, Bundang-gu,",Gyeonggi-do,,13529,Republic of Korea,v2009,57,Silver,7/29/2018,Yes,64472,,5/30/2016,sq m
+1000184242,No,ASMK New MFG Factory,824-1 Yeongcheon-dong,Hwaseong,Kyonggi-do,18469,Republic of Korea,v4,60,Gold,2/28/2026,Yes,19458,,8/28/2023,sq m
+1000177021,No,Logisco Ansan,780 Wonsi-dong Danwon-gu,Ansan-si,Kyonggi-do,15434,Republic of Korea,v4,51,Silver,7/25/2024,Yes,23625,,4/19/2023,sq m
+1000145773,No,Logisco Hwaseong,"184, Jegi-ri, Jeongnam-myeon",Hwaseong,Kyonggi-do,18515,Republic of Korea,v4,41,Certified,3/22/2023,Yes,102051,,6/24/2021,sq m
+1000175017,No,KAKAO AI CAMPUS,"47-2, Gogi-dong, Suji-gu",Yongin,Kyonggi-do,16801,Republic of Korea,v4,51,Silver,9/22/2024,Yes,14682,,3/30/2023,sq m
+1000221545,No,Pyeongtaek Kurly Logistics Center Annex,66 Goryeom Industrial Complex-ro Cheongb,Pyeongtaek-si,,17794,Republic of Korea,v4.1,63,Gold,12/27/2025,Yes,2960,,9/4/2025,sq m
+1000213065,No,Gucci Lotte Busan Premium Outlet,"64 Dangsa-Ri, Gijang-Eup, Gijang-Gun, Bu",Gijang-Gun,,46051,Republic of Korea,v4.1,74,Gold,7/3/2025,Yes,562,,1/14/2025,sq m
+1000149945,No,Arenas Yangji Logistics Center,"111-73, Nampyeong-ro, Yangji-myeon, Cheoin-gu, Yongin-si,",Gyeonggi-do,,17158,Republic of Korea,v4,60,Gold,6/30/2022,Yes,234636,,9/30/2021,sq m
+1000149974,No,Signature Tower,"100, Cheonggyecheon-ro, Jung-gu, Seoul",Seoul,,04542,Republic of Korea,v4,83,Platinum,9/28/2022,Yes,805430,,9/30/2021,sq m
+1000149978,No,V-PLEX,"501, Teheran-ro, Gangnam-gu, Seoul",Seoul,,06168,Republic of Korea,v4,64,Gold,6/21/2022,Yes,214955,,9/30/2021,sq m
+1000149933,No,Autoway Tower,"417, Yeongdong-daero",Seoul,,06182,Republic of Korea,v4,84,Platinum,6/21/2022,Yes,34191,,9/29/2021,sq m
+1000190631,No,Hyundai Motor Company HQ Lobby,"12, Heolleung-ro",Seocho-gu,,06797,Republic of Korea,v4,61,Gold,2/4/2026,Yes,31402,,1/8/2024,sq m
+1000221516,No,Burberry Hyundai Pangyo Main,"20 Pangyoyeok-ro 146beon-gil,",Gyeonggi-do,,13529,Republic of Korea,v4,65,Gold,2/5/2026,Yes,166,,9/4/2025,sq m
+1000213067,No,Gucci Yeoju Premium Outlet,"#460 Sanggeo-Dong, Yeoju-Si, Gyeonggi-Do",Yeoju-Si,,12655,Republic of Korea,v4.1,72,Gold,7/3/2025,Yes,818,,1/14/2025,sq m
+1000213127,No,Gucci Hyundai Gimpo Premium Outlet,"#654, Jeonho-ri, Gochon-eup, Gimpo-si, G",Gimpo-si,,10135,Republic of Korea,v4.1,72,Gold,7/3/2025,Yes,641,,1/15/2025,sq m
+1000213228,No,Incheon Namchungra Logistics,"46, Bukhang-ro 178beon-gil, Seo-gu",Incheon,,22853,Republic of Korea,v4.1,67,Gold,2/18/2026,Yes,44829,,1/20/2025,sq m
+1000214473,No,Gucci Korea Hyundai Coex,"1F, Hyundai Department Coex store #159-7",Seoul,,06164,Republic of Korea,v4.1,70,Gold,8/7/2025,Yes,212,,2/24/2025,sq m
+1000150991,No,Sindaeri Logistics B,"134-30 Shindae-gil, gonjiam-eup",Gwangju-si,,12801,Republic of Korea,v4.1,62,Gold,6/29/2022,Yes,38714,,10/25/2021,sq m
+1000212459,No,Yongsan The Prime Tower,"Yongsan-gu,  Seoul, Republic of Korea 11",Seoul,,04315,Republic of Korea,v4.1,63,Gold,12/8/2025,Yes,34136,,12/22/2024,sq m
+1000221531,No,Pyeongtaek Kurly Logistics Center,66 Goryeom Industrial Complex-ro Cheongb,Pyeongtaek-si,,17794,Republic of Korea,v4.1,66,Gold,12/27/2025,Yes,131950,,9/4/2025,sq m
+1000222163,No,MIUMIU Seoul Shinsegae YDP,"176 Sinbanpo-ro, Banpo-dong, Gangnam Dis",SEOUL,,10042,Republic of Korea,v4,43,Gold,1/27/2026,Yes,147,,9/19/2025,sq m
+1000171770,No,Project Gamma - STT Seoul 1,"54, Gasan Digital 2-ro, Geumcheon-gu",Seoul,,08589,Republic of Korea,v4,61,Gold,1/15/2026,Yes,32549,,2/7/2023,sq m
+1000210641,No,AIA Tower,"216 Sunhwa-dong, Jung-gu",Seoul,,04511,Republic of Korea,v4.1,72,Gold,5/9/2025,Yes,37334,,11/10/2024,sq m
+1000220876,No,Hwaseong CDC Logistics Center B,"42, Bukbumaeul-gil, Jangan-myeon",Hwaseong-si,,18574,Republic of Korea,v4.1,64,Gold,12/16/2025,Yes,23139,,8/18/2025,sq m
+1000211272,No,AK Plaza Gwang-Myeong,17 Yangji-ro,Gwangmyeong,Kyonggi-do,14345,Republic of Korea,v4.1,67,Gold,5/29/2025,Yes,57320,,11/28/2024,sq m
+1000212367,No,Jeongwang Logistics,2123-3,Siheung,Kyonggi-do,15074,Republic of Korea,v4.1,60,Gold,5/30/2025,Yes,104452,,12/20/2024,sq m
+1000214563,No,Mapletree Logistics Centre Baekam3,"956-8, Jugyang-daero, Baegam-myeon, Cheo",Yongin-si,Kyonggi-do,17180,Republic of Korea,v4.1,72,Gold,8/28/2025,Yes,27285,,2/26/2025,sq ft
+1000218082,No,Pulmuone Suseo Workplace Daycare Center,"4th floor, Rosedale Building",Seoul,Soul-t?ukpyolsi,06367,Republic of Korea,v4,60,Gold,3/5/2026,Yes,908,,6/5/2025,sq m
+10354107,No,Mirae Asset CENTER1,"5 Suha-dong, Jung-gu",Seoul,,135-973,Republic of Korea,v2.0,30,Silver,7/12/2011,Yes,1808335,,12/19/2008,sq ft
+1000222195,No,Burberry Lotte Main Kids,"LOTTE Department Store Main Store, 81 Na",Seoul,Ch?ungch?ong-bukto,04533,Republic of Korea,v4,65,Gold,3/8/2026,Yes,116,,9/19/2025,sq m

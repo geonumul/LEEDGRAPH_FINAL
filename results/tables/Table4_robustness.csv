@@ -1,0 +1,8 @@
+﻿subset,N,CV_Acc,CV_F1,Top1,Top2,Top3
+전체,460,0.8457,0.8401,ratio_EA,ratio_EQ,ratio_WE
+credit_hit>0.7,324,0.852,0.8423,ratio_EA,ratio_EQ,ratio_SS
+"구버전(v2.x, v2009)",136,0.8235,0.8218,ratio_EA,ratio_WE,ratio_EQ
+"신버전(v4, v4.1)",324,0.852,0.8423,ratio_EA,ratio_EQ,ratio_SS
+Gold 이상,291,0.9483,0.944,ratio_EA,ratio_SS,ratio_EQ
+연면적 > 10000sqm,284,0.8273,0.8211,ratio_EA,ratio_EQ,ratio_LT
+LLM 재매핑(drift>20%),32,0.9375,0.9073,log_area,ratio_EA,ratio_IP

@@ -1,0 +1,10 @@
+﻿rank,feature,mean_abs_shap
+1,ratio_EA,0.0855
+2,ratio_EQ,0.0668
+3,ratio_WE,0.0492
+4,ratio_LT,0.0466
+5,ratio_SS,0.0324
+6,version_ord,0.0258
+7,log_area,0.0176
+8,ratio_MR,0.0153
+9,ratio_IP,0.0093

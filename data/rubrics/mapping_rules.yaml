@@ -1,0 +1,942 @@
+# LEED 버전별 크레딧 → v5 크레딧 매핑 규칙
+#
+# 구조:
+#   source_credit:    구버전 크레딧명 (loader.py에서 파싱되는 실제 문자열, 소문자 부분 매칭)
+#   source_versions:  적용 버전 목록
+#   source_category:  구버전 카테고리 코드
+#   target_v5_code:   v5 크레딧 코드
+#   target_v5_name:   v5 크레딧명
+#   target_v5_category: v5 카테고리 코드
+#   confidence:       high / medium / low
+#
+# 매칭 방식: source_credit을 소문자로 변환한 후 부분 문자열 매칭
+# 우선순위: 더 긴 매칭이 이김 (specificity)
+
+# =============================================================================
+# EA: Energy and Atmosphere
+# =============================================================================
+
+# ── Prerequisite ──────────────────────────────────────────────────────────────
+- source_credit: "minimum energy performance"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: EA
+  target_v5_code: EAp2
+  target_v5_name: Minimum Energy Efficiency
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "fundamental commissioning and verification"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAp3
+  target_v5_name: Fundamental Commissioning
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "fundamental commissioning"
+  source_versions: [v2.2, v2009, v3]
+  source_category: EA
+  target_v5_code: EAp3
+  target_v5_name: Fundamental Commissioning
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "building-level energy metering"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAp4
+  target_v5_name: Energy Metering and Reporting
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "fundamental refrigerant management"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: EA
+  target_v5_code: EAp5
+  target_v5_name: Fundamental Refrigerant Management
+  target_v5_category: EA
+  confidence: high
+
+# ── Credits ───────────────────────────────────────────────────────────────────
+- source_credit: "optimize energy performance"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc3
+  target_v5_name: Enhanced Energy Efficiency
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "advanced energy metering"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAp4
+  target_v5_name: Energy Metering and Reporting
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "measurement and verification"
+  source_versions: [v2009, v3]
+  source_category: EA
+  target_v5_code: EAp4
+  target_v5_name: Energy Metering and Reporting
+  target_v5_category: EA
+  confidence: medium
+
+- source_credit: "demand response"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc6
+  target_v5_name: Grid Interactive
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "renewable energy production"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc4
+  target_v5_name: Renewable Energy
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "on-site renewable energy"
+  source_versions: [v2009, v3]
+  source_category: EA
+  target_v5_code: EAc4
+  target_v5_name: Renewable Energy
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "renewable energy"
+  source_versions: [v2.2]
+  source_category: EA
+  target_v5_code: EAc4
+  target_v5_name: Renewable Energy
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "green power and carbon offsets"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc4
+  target_v5_name: Renewable Energy
+  target_v5_category: EA
+  confidence: medium
+
+- source_credit: "green power"
+  source_versions: [v2009, v3, v2.2]
+  source_category: EA
+  target_v5_code: EAc4
+  target_v5_name: Renewable Energy
+  target_v5_category: EA
+  confidence: medium
+
+- source_credit: "enhanced commissioning"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc5
+  target_v5_name: Enhanced Commissioning
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "enhanced refrigerant management"
+  source_versions: [v2009, v3, v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc7
+  target_v5_name: Enhanced Refrigerant Management
+  target_v5_category: EA
+  confidence: high
+
+- source_credit: "emissions reduction"
+  source_versions: [v2.2]
+  source_category: EA
+  target_v5_code: EAc3
+  target_v5_name: Enhanced Energy Efficiency
+  target_v5_category: EA
+  confidence: low
+
+# =============================================================================
+# WE: Water Efficiency
+# =============================================================================
+
+# ── Prerequisite ──────────────────────────────────────────────────────────────
+- source_credit: "outdoor water use reduction"
+  source_versions: [v4, v4.1]
+  source_category: WE
+  target_v5_code: WEp2
+  target_v5_name: Minimum Water Efficiency
+  target_v5_category: WE
+  confidence: high
+  notes: "prereq only; credit version → WEc2"
+
+- source_credit: "indoor water use reduction"
+  source_versions: [v4, v4.1]
+  source_category: WE
+  target_v5_code: WEp2
+  target_v5_name: Minimum Water Efficiency
+  target_v5_category: WE
+  confidence: high
+  notes: "prereq only; credit version → WEc2"
+
+- source_credit: "building-level water metering"
+  source_versions: [v4, v4.1]
+  source_category: WE
+  target_v5_code: WEp1
+  target_v5_name: Water Metering and Reporting
+  target_v5_category: WE
+  confidence: high
+
+- source_credit: "water use reduction"
+  source_versions: [v2009, v3, v2.2]
+  source_category: WE
+  target_v5_code: WEp2
+  target_v5_name: Minimum Water Efficiency
+  target_v5_category: WE
+  confidence: high
+  notes: "prereq → WEp2; credit → WEc2"
+
+# ── Credits ───────────────────────────────────────────────────────────────────
+- source_credit: "cooling tower water use"
+  source_versions: [v4, v4.1]
+  source_category: WE
+  target_v5_code: WEc2
+  target_v5_name: Enhanced Water Efficiency
+  target_v5_category: WE
+  confidence: high
+
+- source_credit: "water metering"
+  source_versions: [v4, v4.1]
+  source_category: WE
+  target_v5_code: WEc1
+  target_v5_name: Water Metering and Leak Detection
+  target_v5_category: WE
+  confidence: high
+
+- source_credit: "water efficient landscaping"
+  source_versions: [v2.2, v2009, v3]
+  source_category: WE
+  target_v5_code: WEc2
+  target_v5_name: Enhanced Water Efficiency
+  target_v5_category: WE
+  confidence: high
+
+- source_credit: "innovative wastewater technologies"
+  source_versions: [v2.2]
+  source_category: WE
+  target_v5_code: WEc2
+  target_v5_name: Enhanced Water Efficiency
+  target_v5_category: WE
+  confidence: medium
+
+- source_credit: "process water use reduction"
+  source_versions: [v2009, v3]
+  source_category: WE
+  target_v5_code: WEc2
+  target_v5_name: Enhanced Water Efficiency
+  target_v5_category: WE
+  confidence: medium
+
+# =============================================================================
+# SS: Sustainable Sites
+# =============================================================================
+
+# ── Prerequisite ──────────────────────────────────────────────────────────────
+- source_credit: "construction activity pollution prevention"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSp1
+  target_v5_name: Minimize Site Disturbance
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "erosion and sedimentation control"
+  source_versions: [v2.2, v2009, v3]
+  source_category: SS
+  target_v5_code: SSp1
+  target_v5_name: Minimize Site Disturbance
+  target_v5_category: SS
+  confidence: high
+
+# ── Credits ───────────────────────────────────────────────────────────────────
+- source_credit: "site development - protect or restore habitat"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc1
+  target_v5_name: Biodiverse Habitat
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "habitat or wetlands and water body conservation"
+  source_versions: [v2009, v3]
+  source_category: SS
+  target_v5_code: SSc1
+  target_v5_name: Biodiverse Habitat
+  target_v5_category: SS
+  confidence: medium
+
+- source_credit: "open space"
+  source_versions: [v4, v4.1, v2009, v3]
+  source_category: SS
+  target_v5_code: SSc2
+  target_v5_name: Accessible Outdoor Space
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "rainwater management"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc3
+  target_v5_name: Rainwater Management
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "stormwater design"
+  source_versions: [v2009, v3]
+  source_category: SS
+  target_v5_code: SSc3
+  target_v5_name: Rainwater Management
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "stormwater management"
+  source_versions: [v2.2]
+  source_category: SS
+  target_v5_code: SSc3
+  target_v5_name: Rainwater Management
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "heat island reduction"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc5
+  target_v5_name: Heat Island Reduction
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "light pollution reduction"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc6
+  target_v5_name: Light Pollution Reduction
+  target_v5_category: SS
+  confidence: high
+
+- source_credit: "brownfield redevelopment"
+  source_versions: [v2009, v3, v2.2]
+  source_category: SS
+  target_v5_code: LTc2
+  target_v5_name: Equitable Development
+  target_v5_category: LT
+  confidence: medium
+
+- source_credit: "high priority site"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: LTc2
+  target_v5_name: Equitable Development
+  target_v5_category: LT
+  confidence: medium
+
+- source_credit: "site assessment"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc1
+  target_v5_name: Biodiverse Habitat
+  target_v5_category: SS
+  confidence: low
+  notes: "v5에서 SSp1/SSc4로 분산됨"
+
+- source_credit: "resilient site"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc4
+  target_v5_name: Enhanced Resilient Site Design
+  target_v5_category: SS
+  confidence: medium
+
+# =============================================================================
+# LT: Location and Transportation (v4 이상 독립 카테고리)
+# =============================================================================
+
+- source_credit: "sensitive land protection"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc1
+  target_v5_name: Sensitive Land Protection
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "leed for neighborhood development location"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc3
+  target_v5_name: Compact and Connected Development
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "surrounding density and diverse uses"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc3
+  target_v5_name: Compact and Connected Development
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "access to quality transit"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc3
+  target_v5_name: Compact and Connected Development
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "bicycle facilities"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc4
+  target_v5_name: Transportation Demand Management
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "reduced parking footprint"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc4
+  target_v5_name: Transportation Demand Management
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "green vehicles"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc5
+  target_v5_name: Electric Vehicles
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "electric vehicles"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc5
+  target_v5_name: Electric Vehicles
+  target_v5_category: LT
+  confidence: high
+
+# ── v2009/v2.2: SS 안의 Alternative Transportation → v5 LT ──────────────────
+- source_credit: "alternative transportation - public transportation access"
+  source_versions: [v2.2, v2009, v3]
+  source_category: SS
+  target_v5_code: LTc3
+  target_v5_name: Compact and Connected Development
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "alternative transportation - bicycle storage"
+  source_versions: [v2.2, v2009, v3]
+  source_category: SS
+  target_v5_code: LTc4
+  target_v5_name: Transportation Demand Management
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "alternative transportation - low-emitting"
+  source_versions: [v2.2, v2009, v3]
+  source_category: SS
+  target_v5_code: LTc5
+  target_v5_name: Electric Vehicles
+  target_v5_category: LT
+  confidence: high
+
+- source_credit: "alternative transportation - parking capacity"
+  source_versions: [v2.2, v2009, v3]
+  source_category: SS
+  target_v5_code: LTc4
+  target_v5_name: Transportation Demand Management
+  target_v5_category: LT
+  confidence: high
+
+# =============================================================================
+# MR: Materials and Resources
+# =============================================================================
+
+# ── Prerequisite ──────────────────────────────────────────────────────────────
+- source_credit: "storage and collection of recyclables"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: MR
+  target_v5_code: MRp1
+  target_v5_name: Planning for Zero Waste Operations
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "construction and demolition waste management planning"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRp1
+  target_v5_name: Planning for Zero Waste Operations
+  target_v5_category: MR
+  confidence: high
+
+# ── Credits ───────────────────────────────────────────────────────────────────
+- source_credit: "building life-cycle impact reduction"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRc2
+  target_v5_name: Reduce Embodied Carbon
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "building product disclosure and optimization - environmental product declarations"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "building product disclosure and optimization - sourcing of raw materials"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "building product disclosure and optimization - material ingredients"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "construction and demolition waste management"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRc5
+  target_v5_name: Construction and Demolition Waste Diversion
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "construction waste management"
+  source_versions: [v2.2, v2009, v3]
+  source_category: MR
+  target_v5_code: MRc5
+  target_v5_name: Construction and Demolition Waste Diversion
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "materials reuse"
+  source_versions: [v2009, v3]
+  source_category: MR
+  target_v5_code: MRc1
+  target_v5_name: Building and Materials Reuse
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "resource reuse"
+  source_versions: [v2.2]
+  source_category: MR
+  target_v5_code: MRc1
+  target_v5_name: Building and Materials Reuse
+  target_v5_category: MR
+  confidence: high
+
+- source_credit: "recycled content"
+  source_versions: [v2.2, v2009, v3]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: medium
+
+- source_credit: "regional materials"
+  source_versions: [v2.2, v2009, v3]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: medium
+
+- source_credit: "rapidly renewable materials"
+  source_versions: [v2.2, v2009, v3]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: medium
+
+- source_credit: "certified wood"
+  source_versions: [v2.2, v2009, v3]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: medium
+
+# =============================================================================
+# IEQ/EQ: Indoor Environmental Quality
+# =============================================================================
+
+# ── Prerequisite ──────────────────────────────────────────────────────────────
+- source_credit: "minimum indoor air quality performance"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQp2
+  target_v5_name: Fundamental Air Quality
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "environmental tobacco smoke control"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQp3
+  target_v5_name: No Smoking or Vehicle Idling
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "construction indoor air quality management plan"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQp1
+  target_v5_name: Construction Management
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "construction iaq management plan - during construction"
+  source_versions: [v2009, v3, v2.2]
+  source_category: IEQ
+  target_v5_code: EQp1
+  target_v5_name: Construction Management
+  target_v5_category: EQ
+  confidence: high
+
+# ── Credits ───────────────────────────────────────────────────────────────────
+- source_credit: "enhanced indoor air quality strategies"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "low-emitting materials"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "indoor air quality assessment"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc5
+  target_v5_name: Air Quality Testing and Monitoring
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "construction iaq management plan - before occupancy"
+  source_versions: [v2009, v3, v2.2]
+  source_category: IEQ
+  target_v5_code: EQc5
+  target_v5_name: Air Quality Testing and Monitoring
+  target_v5_category: EQ
+  confidence: medium
+
+- source_credit: "outdoor air delivery monitoring"
+  source_versions: [v2009, v3]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "increased ventilation"
+  source_versions: [v2009, v3]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "carbon dioxide monitoring"
+  source_versions: [v2.2]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: medium
+
+- source_credit: "indoor chemical and pollutant source control"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "thermal comfort"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "controllability of systems"
+  source_versions: [v2009, v3, v2.2]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "interior lighting"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "daylight"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "quality views"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "daylight and views"
+  source_versions: [v2009, v3, v2.2]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "acoustic performance"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+- source_credit: "occupant comfort survey"
+  source_versions: [v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+
+# =============================================================================
+# IP: Integrative Process
+# =============================================================================
+
+- source_credit: "integrative process"
+  source_versions: [v4, v4.1]
+  source_category: IP
+  target_v5_code: IPc1
+  target_v5_name: Integrative Design Process
+  target_v5_category: IP
+  confidence: high
+
+# =============================================================================
+# IN / RP: v5에서 폐지 → dropped_categories에 기록
+# =============================================================================
+
+- source_credit: "innovation"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IN
+  target_v5_code: DROPPED
+  target_v5_name: "(v5에서 폐지)"
+  target_v5_category: null
+  confidence: high
+  notes: "v5에서 Innovation 카테고리 폐지"
+
+- source_credit: "leed ap"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: IN
+  target_v5_code: DROPPED
+  target_v5_name: "(v5에서 폐지)"
+  target_v5_category: null
+  confidence: high
+
+- source_credit: "pilot credit"
+  source_versions: [v4, v4.1]
+  source_category: IN
+  target_v5_code: DROPPED
+  target_v5_name: "(v5에서 폐지)"
+  target_v5_category: null
+  confidence: high
+
+- source_credit: "regional priority"
+  source_versions: [v2009, v3, v4, v4.1]
+  source_category: RP
+  target_v5_code: DROPPED
+  target_v5_name: "(v5에서 폐지)"
+  target_v5_category: null
+  confidence: high
+  notes: "v5에서 Regional Priority 카테고리 폐지"
+
+# =============================================================================
+# O+M (Existing Buildings) 전용 크레딧 - v4 / v4.1
+# O+M은 BD+C와 크레딧명이 완전히 다름. 성능 기반 측정 체계.
+# =============================================================================
+
+- source_credit: "energy performance"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc3
+  target_v5_name: Enhanced Energy Efficiency
+  target_v5_category: EA
+  confidence: high
+  notes: "O+M: Energy Performance credit"
+
+- source_credit: "water performance"
+  source_versions: [v4, v4.1]
+  source_category: WE
+  target_v5_code: WEc2
+  target_v5_name: Enhanced Water Efficiency
+  target_v5_category: WE
+  confidence: high
+  notes: "O+M: Water Performance credit"
+
+- source_credit: "transportation performance"
+  source_versions: [v4, v4.1]
+  source_category: LT
+  target_v5_code: LTc4
+  target_v5_name: Transportation Demand Management
+  target_v5_category: LT
+  confidence: high
+  notes: "O+M: Transportation Performance credit"
+
+- source_credit: "green cleaning policy"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQp1
+  target_v5_name: Construction Management
+  target_v5_category: EQ
+  confidence: medium
+  notes: "O+M prereq: Green Cleaning Policy → EQ prereq"
+
+- source_credit: "green cleaning"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc1
+  target_v5_name: Enhanced Air Quality
+  target_v5_category: EQ
+  confidence: high
+  notes: "O+M: Green Cleaning credit"
+
+- source_credit: "purchasing policy"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRp1
+  target_v5_name: Planning for Zero Waste Operations
+  target_v5_category: MR
+  confidence: high
+  notes: "O+M prereq: Purchasing Policy → MR prereq"
+
+- source_credit: "purchasing"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRc4
+  target_v5_name: Building Product Selection and Procurement
+  target_v5_category: MR
+  confidence: high
+  notes: "O+M: Purchasing credit"
+
+- source_credit: "site management"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc4
+  target_v5_name: Enhanced Resilient Site Design
+  target_v5_category: SS
+  confidence: medium
+  notes: "O+M: Site Management"
+
+- source_credit: "site mgmt"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc4
+  target_v5_name: Enhanced Resilient Site Design
+  target_v5_category: SS
+  confidence: medium
+  notes: "O+M abbreviated: Site Mgmt"
+
+- source_credit: "integrated pest mgmt"
+  source_versions: [v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc2
+  target_v5_name: Accessible Outdoor Space
+  target_v5_category: SS
+  confidence: low
+  notes: "O+M: Integrated Pest Management → SS (closest v5 match)"
+
+- source_credit: "indoor environmental quality performance"
+  source_versions: [v4, v4.1]
+  source_category: IEQ
+  target_v5_code: EQc2
+  target_v5_name: Occupant Experience
+  target_v5_category: EQ
+  confidence: high
+  notes: "O+M: IEQ Performance credit"
+
+- source_credit: "grid harmonization"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc6
+  target_v5_name: Grid Interactive
+  target_v5_category: EA
+  confidence: high
+  notes: "O+M: Grid Harmonization = v5 Grid Interactive"
+
+- source_credit: "facility maintenance and renovations policy"
+  source_versions: [v4, v4.1]
+  source_category: MR
+  target_v5_code: MRp1
+  target_v5_name: Planning for Zero Waste Operations
+  target_v5_category: MR
+  confidence: medium
+  notes: "O+M prereq: Facility Maintenance policy → MR prereq"
+
+- source_credit: "energy efficiency best mgmt practices"
+  source_versions: [v4, v4.1]
+  source_category: EA
+  target_v5_code: EAp2
+  target_v5_name: Minimum Energy Efficiency
+  target_v5_category: EA
+  confidence: high
+  notes: "O+M prereq: Energy Efficiency Best Mgmt Practices"
+
+# ── 약어형(abbreviated) 크레딧명 보완 ────────────────────────────────────────
+# PDF 파서가 출력하는 약어 크레딧명이 full name 규칙에 매칭 안될 때를 위한 보완
+
+- source_credit: "rainwater mgmt"
+  source_versions: [v2.2, v2009, v3, v4, v4.1]
+  source_category: SS
+  target_v5_code: SSc3
+  target_v5_name: Rainwater Management
+  target_v5_category: SS
+  confidence: high
+  notes: "PDF 약어: Rainwater Mgmt = Rainwater Management"
+
+- source_credit: "enhanced refrigerant mgmt"
+  source_versions: [v2009, v3, v4, v4.1]
+  source_category: EA
+  target_v5_code: EAc7
+  target_v5_name: Enhanced Refrigerant Management
+  target_v5_category: EA
+  confidence: high
+  notes: "PDF 약어: Enhanced Refrigerant Mgmt = Enhanced Refrigerant Management"

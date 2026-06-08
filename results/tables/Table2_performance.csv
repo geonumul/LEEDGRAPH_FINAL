@@ -1,0 +1,2 @@
+﻿Model,CV_Accuracy_mean,CV_Accuracy_std,CV_F1_mean,CV_F1_std,Bootstrap_CI_low,Bootstrap_CI_high,n_samples,n_features
+RandomForest,0.8457,0.0081,0.8401,0.0089,0.8391,0.8522,460,9
