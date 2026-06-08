@@ -29,8 +29,11 @@ outputs/models/
 # outputs/figures/
 # outputs/reports/
 
-# Local editor/agent caches
+# Local editor / agent caches
 .claude/
+.cursor/
+.aider*
+.history/
 
 # 가상환경
 .venv_test/
@@ -38,6 +41,9 @@ outputs/models/
 # 옛 산출물 (backup 폴더에만 보존)
 results/figures/legacy/
 results/tables/legacy/
+
+# LLM 증강본 (deprecated — 분석은 규칙 기반 project_features.parquet 사용)
+data/project_features_option_a.parquet
 
 # IDE
 .vscode/

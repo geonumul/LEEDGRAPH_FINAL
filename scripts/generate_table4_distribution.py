@@ -55,7 +55,7 @@ def main() -> None:
     print(f"\n등급 합계 = {grade_sum}  ({'OK' if grade_sum == n else 'MISMATCH'})")
     print(f"인증 버전 합계 = {ver_sum}  ({'OK' if ver_sum == n else 'MISMATCH'})")
 
-    # 박사님 검토본 본문 수치 대조
+    # 논문 본문 수치와 대조
     expected = {"Gold": 235, "Silver": 118, "Platinum": 56, "Certified": 51}
     actual = {r["항목"]: r["건수"] for r in rows if r["구분"] == "등급"}
     print("\n[paper cross-check] grade counts:")
